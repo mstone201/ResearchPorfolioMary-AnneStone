@@ -1,0 +1,25 @@
+---
+title: "Task 4: Making a Map in GIS"
+---
+
+# [Areas Targeted By Captain Thunderbolt]{.smallcaps}
+
+## ![](Images/Figure.2.%20MainAreasofcrime.png)
+
+**Fig.1.** Indicates which towns where targeted by Captain Thunderbolt from the years 1863-1870 according to Baxter's (2011) detailed timeline.
+
+# [Origin areas of Newspaper Agencies that Reported on Thunderbolt]{.smallcaps}
+
+![](Images/Fig.4.%20Map%20of%20Newspapers.png)
+
+**Fig.2.** Highlights the different media organisations that covered Captain Thunderbolt bushrangering crimes from 1863-1870.
+
+# [Area of Captain Thunderbolts Death and Burial]{.smallcaps}
+
+![](Images/Fig.3.%20Place%20of%20Death.png)
+
+**Fig.3.** Captain Thunderbolt is buried in Uralla square cemetery on John Street, Uralla, NSW. The black box portrays the area where Thunderbolt was killed by Constable Walker in 1870.
+
+# [Geo-referencing Maps Details]{.smallcaps}
+
+Figures 2 and 3 are not multi-layered maps. They have one NSW Base map sourced from the National Map (https://nationalmap.gov.au/). The Base map is a Esri map server and contains details regarding towns, roads, rivers, national parks and forestries, and other land marks. Figure 3 has a topographic and aerial map layered with the NSW base map. All are a Esri map servers and were sourced from the National Map website.

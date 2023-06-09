@@ -1,0 +1,37 @@
+---
+title: "Research Portfolio: Task 1"
+---
+
+# ~[Harvesting Data From the Web]{.smallcaps}~
+
+## [Introduction]{.smallcaps}
+
+The Captain Thunderbolt Crimes (1863-1870) data-set contains eighty three entries pertaining to the characteristics and details of each known crime of Frederick Wordsworth otherwise known as 'Captain Thunderbolt'. The subject of interest for this research task involves the types of crimes Thunderbolt committed, and how these were interpreted by the contemporary public and later platforms.
+
+## [Aim]{.smallcaps}
+
+The aim of harvesting data from the web for this task, is to collate a data set that effectively lists the quantitative data that was collected from the source file. By analysing this curated data set, this project aims to provide a more in-depth understanding of relevant information that helps to answer the case study inquiries and the overall questions about digital humanities contribution to understanding the dissemination of local history.
+
+## [Method]{.smallcaps}
+
+In order to create a substantial data set a source of relevant information was found. Though collecting this data from a multitude of online resources would provide a wider range of reference points, for the size of this project only one online source was used. The website was created by historian and author Carol J. Baxter in response to her research into the life of Frederick Ward and her published book 'Captain Thunderbolt & his lady: the true story of bushrangers Frederick Ward & Mary Ann Bugg' (Baxter, 2011). The decision was made to manually input the data into an excel spreadsheet to reduce the chance of errors in interpreting the quantitative data and its relevance to the research topic. Once the data set was complete, illustrations of the data could be produced by using the pivot table tool on excel and the results could be discussed. Trends in the data are shown in the data charts, maps and graphs below. Due to the size of the data trend, other more in depth visualisation tools were decided against in order to narrow the patterns in order to make it simpler for readers to understand.
+
+## [Analysis Results]{.smallcaps}
+
+The data showed a number of patterns between the years of 1863 to 1870 that a relevant to understand the nature of Thunderbolts crimes. As is shown in figure 2, the nature of Thunderbolts crime was largely robberies (97%) with other encounters with police, hostage situations and weapons assault making up the remain 3%. Figure 1 displays Thunderbolts preferred targets, with individual/s being the more likely to be targeted than establishments, though these were still impacted.
+
+![**Fig.1.** Illustration of the number of Individuals to establishments that were victims of Thunderbolts crimes. Some of these figures include events that occurred at the same time](images/Individuals-Establishments%20Robbed.png){fig-align="center" width="552"}
+
+A table was also produced that lists all the locations that were impacted according to the data source. This conveys the area that Thunderbolt impacted with criminal loss of property as as well as the expanse of his reach into local and state media sources. This provides a source for [task 4](Task4.qmd) which includes a map with each area marked.
+
+![**Fig.2.** Displays Thunderbolts Crimes from 1863 to 1870, with the majority consisting of Robberies.](Images/Picture3.jpg){fig-align="center" width="589"}
+
+## [Discussion]{.smallcaps}
+
+This data is significant in illustrating the types of criminal acts Thunderbolt and his associates committed and the range of influence they had. It assists in linking contextual information from a large source into understandable formats that can be utilised in providing a complete analysis of interpretations. The details from this task are essential in conveying historical knowledge into the reports conclusive discussion, enabling a more informed and in-depth portfolio to be created. The digital techniques convey an illustration of the uses of digital humanities in providing clear datasets that are able to be formatted and manipulated to portray results, statistics and patterns in Australian criminal historic interpretations.
+
+## [Appendices:]{.smallcaps}
+
+The data source of this data set was one online platform which contained a well put together and informed timeline of Frederick Ward and his companions lives and criminal actions:
+
+Baxter, C. J. (2011). Captain Thunderbolt & his lady: The true story of bushrangers Frederick Ward & Mary Ann Bugg. Allen & Unwin.

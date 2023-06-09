@@ -1,0 +1,105 @@
+---
+title: "Research Portfolio Task 2"
+---
+
+# [Historical Image Analysis]{.smallcaps}
+
+## [Introduction]{.smallcaps}
+
+A select group of images were selected to provide a visual tool that represents the differences of modern and contemporary interpretation of Frederick Wards life and character.The types of images range from photographs and sketches to movie still frames and poster. Four select images were input into the final write up to help illustrate ideas and the analysis results of this historical image research. A further overview is provided through the task [readme](readme2.qmd) file.
+
+## [Aim]{.smallcaps}
+
+The aim of task 2 in this research assignment is to build a collection of historic images which are linked to the particular case-study. Twenty images have been curated that link to the study of Captain Thunderbolt, his crimes and how media is portraying him. Analyzing the images will build a better understanding of the case study questions and the wider query in relation to digital humanities role in the spread of local and cultural history.
+
+## [Methods]{.smallcaps}
+
+This collection of twenty images were obtained from a selection of sources from online data bases which were found through the use of [Google Chrome](https://www.google.com/). From here the images were found through online archives such as Trove and the New South Wales State Library. Other sources of online image libraries such as Flickr also proved a good source of publicly available images. Access and the copyrights to these images were assumed of the data bases they were stored under. Zotero was used to provide a short analysis of each image based on the first review of them. A full [report](Task 2 Zotero Report.htm) was generated under Zotero, which includes the images citations, descriptive tags, and the write up of the initial thoughts and more structured analysis questions that are discussed further in this project section. The further in-depth questions were trying to capture the meaning and connections to the case study (Cutrara et al., 2019). The questions were:
+
+1.  Why was the image taken/created?
+
+2.  How does the image portray Captain Thunderbolt?
+
+3.  What is the overall mood/feeling that the image conveys?
+
+4.  What insights does it provide for the case study?
+
+5.  Was the image staged or natural?
+
+Once a full analysis of each image was complete, the report was saved as a complete web page and linked to this research portfolio.
+
+## [Results]{.smallcaps}
+
+The analysis of the historical image collection highlighted the influence of perception and interpretation in the case of Frederick Ward aka Captain Thunderbolt. There were themes that stayed consistent through the majority of images, especially through the reenactments and films as is shown in Figure 1 and Figure 3. Most images that were not created or taken from the 1800s symbolised Thunderbolt as a heroic and dashing character in Australian history. Bold text, charismatic imagery and popular actors all corresponded to this valiant image of Thunderbolt rather than the reality of his life.
+
+[![**Fig.1.** Captain Thunderbolt (1953/55) Film by Cecil Holmes (Francis, 1951).](/Images/1955%20film.jfif){fig-align="center" width="521"}](https://collection.sl.nsw.gov.au/record/n5lX6Ja9#viewer)
+
+Photos taken from the contemporary period of the mid 1800s provide a realistic account of events, with shockingly clear images of Thunderbolt cadaver and the scene of his capture and death (Figure 2). In contrast, drawings regarding the illustration of Thunderbolts death vary in their details. Some show him fleeing conveying a coward rather than a rebel, others show him heavily armed which is known not to be true from the accounts by Constable Alexander Walker (pictured in Figure 4) (Messner, 2018; "THE DEATH OF THE BUSHRANGER WARD," 1870).
+
+[![**Fig.2.** Photo taken by Andrew Cunningham in 1870 of Captain Thunderbolts Cadaver (Cunningham, 1870)](/Images/Cadeaver%20of%20Thunderbolt.jpg){fig-align="center"}](https://collection.sl.nsw.gov.au/record/1Jkm40oY)
+
+[![**Fig.3.** First illustration to appear in newspapers after Thunderbolts death. Portrays Thunderbolt as heavily armed unlike how Constable Walker describes the events (Published Engraving That Appeared in the Australian Town and Country Journal on 4th of June 1870, n.d.)](/Images/Australian%20town%20and%20country%20journal.jfif){fig-align="center" width="621"}](https://andrewmessner.net/wp-content/uploads/2019/04/atcj-4-6-70-p24-ward-illustration-768x458.jpg)
+
+[![**Fig.4.** Constable Alexander Walker (Constable Alexander Binning Walker, Who Killed the Bushranger Thunderbolt, ca. May-June 1870 / Photographer A. Cunningham, Armidale, n.d.)](/Images/Constable%20Walker.jpg){fig-align="center"}](https://collection.sl.nsw.gov.au/record/1Drm3v59)
+
+## [Discussion]{.smallcaps}
+
+Understanding how Frederick Ward became such a large Australian personality despite the extent of his crimes, is a crucial part of this research task. In order to build this response, analysing the historic images from this collection was an important part of this process. What was found was that the contemporary images (usually in the forms of newspaper drawings) that depicted Thunderbolt, were often at the mercy of the illustrators interpretation. This interpretation could have been influenced by many things such as personal opinion, social pressures and the governments agenda (Lambert, 2011). These images were curated specifically to discover how Frederick Wards civility as an Australian bushranger, impacted the public's illustration of his crimes (Maxwell-Stewart, 1990). Comparing the data set from task one to this historical image collection portrays the differences between the factual historical record of events to the public's perception. Through this comparison of data sets, Captain Thunderbolts public persona can be well linked to the terms of social banditry as a form of social protest against oppressive societal pressures (Pillai, 1974). Though Thunderbolt was really just a common criminal, his displays of civility and charm has impacted the way he is understood in present day literature, media and art platforms (Maxwell-Stewart, 1990).
+
+## [Appendix]{.smallcaps}
+
+Cutrara, S., PhD, Academic, for the O. of the V. P., & University, Y. (2019). Historical Image Analysis. https://pressbooks.library.yorku.ca/dhssinstructorsguide/chapter/historical-image-analysis/
+
+THE DEATH OF THE BUSHRANGER WARD, ALIAS THUNDERBOLT. (1870, May 28). Sydney Morning Herald. http://nla.gov.au/nla.news-article28419906
+
+Lambert, A. (2011). The search for Captain Thunderbolt: An interview with David Donaldson. Studies in Australasian Cinema, 5(1), 81--87.
+
+Maxwell-Stewart, H. (1990). The Bushranger's and the Convict System of Van Diemen's Land, 1803- 1846.
+
+Messner, A. (2018, October 1). Andrew Cunningham's 1870 Captain Thunderbolt Photographs. Andrew Messner. https://andrewmessner.net/2018/10/01/andrew-cunninghams-1870-thunderbolt-photographs/
+
+Pillai, P. G. (1974). The World of Social Bandits. Social Scientist, 2(11), 71--75. https://doi.org/10.2307/3516958
+
+### 
+
+### Image Collection References
+
+Aussie\~mobs. (1973). *Australian Bushranger Thunderbolt's Grave at Uralla, N.S.W. - 1973* \[Photo\]. <https://www.flickr.com/photos/hwmobs/50549533183/>
+
+Bill. (2016). *Cockatoo Island -- Our Pangaea*. <https://www.ourpangaea.net/?p=7745>
+
+*Captain Thunderbolt (1955)*. (n.d.). Retrieved June 5, 2023, from <https://www.imdb.com/title/tt0045606/mediaviewer/rm2330317569/?ref_=tt_ov_i>
+
+*Constable Alexander Binning Walker, who killed the bushranger Thunderbolt, ca. May-June 1870 / photographer A. Cunningham, Armidale*. (n.d.). Retrieved June 5, 2023, from <https://collection.sl.nsw.gov.au/record/1Drm3v59>
+
+Cunningham, A. (n.d.-a). *Cadaver of Frederick Ward, the bushranger Captain Thunderbolt, ca. May-June 1870 / photographer A. Cunningham, Armidale*. Retrieved June 5, 2023, from <https://collection.sl.nsw.gov.au/record/1Jkm40oY>
+
+Cunningham, A. (n.d.-b). *V.6 no.109---Thunderbolt, 1870 \~ Thunderbolt dead, 1870. Andrew Cunningham*. Retrieved June 5, 2023, from <https://collection.sl.nsw.gov.au/digital/4DlpPqybAwaKj>
+
+Cunningham, A. (1870a). *'Capture of Thun­der­bolt.'* <https://andrewmessner.net/wp-content/uploads/2019/04/Reenactment-768x510.jpg>
+
+Cunningham, A. (1870b). *The spot where Thunderbolt was captured, 187- / photographer A. Cunningham, Armidale*. <https://andrewmessner.net/wp-content/uploads/2019/04/Cunningham-1870-KC-SLNSW-768x450.jpg>
+
+David. (n.d.). *Looking for Captain Thunderbolt (Cecil Holmes, 1953) -- Senses of Cinema*. Retrieved June 7, 2023, from <https://www.sensesofcinema.com/wp-content/uploads/2014/02/Captain-Thunderbolt2-750x400.jpg>
+
+Francis, E. (1951). *Captain Thunderbolt \[film production?\], 8 May 1951 / photographs by Eric Francis*. <https://collection.sl.nsw.gov.au/record/n5lX6Ja9#viewer>
+
+*Frederick Ward aka bushranger Captain Thunderbolt biography*. (n.d.). Retrieved June 7, 2023, from <http://thunderboltbushranger.com.au/frederick-ward-biography.html>
+
+*Frederick Ward, alias Thunderbolt*. (1870). <https://andrewmessner.net/wp-content/uploads/2019/04/ISN-8-6-70-Ward.png>
+
+Highranger. (1962). *Thunderbolt Rock* \[Photo\]. <https://www.flickr.com/photos/highranger/15866886025/>
+
+*Mary Ann Buggs*. (n.d.). Retrieved June 5, 2023, from <https://www.rahs.org.au/mary-ann-bugg-1834-1905/>
+
+Messner, A. (1870). *Death of Thun­der­bolt, the bush­ranger',*. <https://andrewmessner.net/wp-content/uploads/2019/04/IANHR-768x620.jpg>
+
+Messner, A. (2018). *'Capture of "Thun­der­bolt."* <https://andrewmessner.net/2018/10/01/andrew-cunninghams-1870-thunderbolt-photographs/>
+
+Paul Leader - Paulie's Time Off Photography. (2017). *Statue of Captain Thunderbolt, gentleman bushranger, Uralla NSW - see below* \[Photo\]. <https://www.flickr.com/photos/bypaulleader/45175384235/>
+
+*Published Engraving that appeared in the Australian Town and Country Journal on 4th of June 1870*. (n.d.). Retrieved June 6, 2023, from <https://andrewmessner.net/wp-content/uploads/2019/04/atcj-4-6-70-p24-ward-illustration-768x458.jpg>
+
+*'The Scene of "Thun­der­bolt's Death",*. (1870). <https://andrewmessner.net/wp-content/uploads/2019/04/isn-6-7-70-1-1-768x577.jpg>
+
+*Were bushrangers villains or heroes? \| MHNSW*. (n.d.). Retrieved June 6, 2023, from <https://images.slm.com.au/fotoweb/embed/2022/12/56888b115d7a4d86b3b858dcea67d76e.jpg>

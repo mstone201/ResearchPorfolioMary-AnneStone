@@ -1,0 +1,1942 @@
+<!DOCTYPE html>
+<html><head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<title>Zotero Report</title>
+		<link rel="stylesheet" type="text/css" href="data:text/css;base64,Ym9keSB7CgliYWNrZ3JvdW5kOiB3aGl0ZTsKfQoKYSB7Cgl0ZXh0LWRlY29yYXRpb246IHVuZGVybGluZTsKfQoKYm9keSB7CglwYWRkaW5nOiAwOwp9Cgp1bC5yZXBvcnQgbGkuaXRlbSB7Cglib3JkZXItdG9wOiA0cHggc29saWQgIzU1NTsKCXBhZGRpbmctdG9wOiAxZW07CglwYWRkaW5nLWxlZnQ6IDFlbTsKCXBhZGRpbmctcmlnaHQ6IDFlbTsKCW1hcmdpbi1ib3R0b206IDJlbTsKfQoKaDEsIGgyLCBoMywgaDQsIGg1LCBoNiB7Cglmb250LXdlaWdodDogbm9ybWFsOwp9CgpoMiB7CgltYXJnaW46IDAgMCAuNWVtOwp9CgpoMi5wYXJlbnRJdGVtIHsKCWZvbnQtd2VpZ2h0OiBib2xkOwoJZm9udC1zaXplOiAxZW07CglwYWRkaW5nOiAwIDAgLjVlbTsKCWJvcmRlci1ib3R0b206IDFweCBzb2xpZCAjY2NjOwp9CgovKiBJZiBjb21iaW5pbmcgY2hpbGRyZW4sIGRpc3BsYXkgcGFyZW50IHNsaWdodGx5IGxhcmdlciAqLwp1bC5yZXBvcnQuY29tYmluZUNoaWxkSXRlbXMgaDIucGFyZW50SXRlbSB7Cglmb250LXNpemU6IDEuMWVtOwoJcGFkZGluZy1ib3R0b206IC43NWVtOwoJbWFyZ2luLWJvdHRvbTogLjRlbTsKfQoKaDIucGFyZW50SXRlbSAudGl0bGUgewoJZm9udC13ZWlnaHQ6IG5vcm1hbDsKfQoKaDMgewoJbWFyZ2luLWJvdHRvbTogLjZlbTsKCWZvbnQtd2VpZ2h0OiBib2xkICFpbXBvcnRhbnQ7Cglmb250LXNpemU6IDFlbTsKCWRpc3BsYXk6IGJsb2NrOwp9CgovKiBNZXRhZGF0YSB0YWJsZSAqLwp0aCB7Cgl2ZXJ0aWNhbC1hbGlnbjogdG9wOwoJdGV4dC1hbGlnbjogcmlnaHQ7Cgl3aWR0aDogMTUlOwoJd2hpdGUtc3BhY2U6IG5vd3JhcDsKfQoKdGQgewoJcGFkZGluZy1sZWZ0OiAuNWVtOwp9CgoKdWwucmVwb3J0LCB1bC5ub3RlcywgdWwudGFncyB7CglsaXN0LXN0eWxlOiBub25lOwoJbWFyZ2luLWxlZnQ6IDA7CglwYWRkaW5nLWxlZnQ6IDA7Cn0KCi8qIFRhZ3MgKi8KaDMudGFncyB7Cglmb250LXNpemU6IDEuMWVtOwp9Cgp1bC50YWdzIHsKCWxpbmUtaGVpZ2h0OiAxLjc1ZW07CglsaXN0LXN0eWxlOiBub25lOwp9Cgp1bC50YWdzIGxpIHsKCWRpc3BsYXk6IGlubGluZTsKfQoKdWwudGFncyBsaTpub3QoOmxhc3QtY2hpbGQpOmFmdGVyIHsKCWNvbnRlbnQ6ICcsICc7Cn0KCgovKiBDaGlsZCBub3RlcyAqLwpoMy5ub3RlcyB7Cglmb250LXNpemU6IDEuMWVtOwp9Cgp1bC5ub3RlcyB7CgltYXJnaW4tYm90dG9tOiAxLjJlbTsKfQoKdWwubm90ZXMgPiBsaTpmaXJzdC1jaGlsZCBwIHsKCW1hcmdpbi10b3A6IDA7Cn0KCnVsLm5vdGVzID4gbGkgewoJcGFkZGluZzogLjdlbSAwOwp9Cgp1bC5ub3RlcyA+IGxpOm5vdCg6bGFzdC1jaGlsZCkgewoJYm9yZGVyLWJvdHRvbTogMXB4ICNjY2Mgc29saWQ7Cn0KCgp1bC5ub3RlcyA+IGxpIHA6Zmlyc3QtY2hpbGQgewoJbWFyZ2luLXRvcDogMDsKfQoKdWwubm90ZXMgPiBsaSBwOmxhc3QtY2hpbGQgewoJbWFyZ2luLWJvdHRvbTogMDsKfQoKLyogQWRkIHF1b3RhdGlvbiBtYXJrcyBhcm91bmQgYmxvY2txdW90ZSAqLwp1bC5ub3RlcyA+IGxpIGJsb2NrcXVvdGUgcDpub3QoOmVtcHR5KTpiZWZvcmUsCmxpLm5vdGUgYmxvY2txdW90ZSBwOm5vdCg6ZW1wdHkpOmJlZm9yZSB7Cgljb250ZW50OiAn4oCcJzsKfQoKdWwubm90ZXMgPiBsaSBibG9ja3F1b3RlIHA6bm90KDplbXB0eSk6bGFzdC1jaGlsZDphZnRlciwKbGkubm90ZSBibG9ja3F1b3RlIHA6bm90KDplbXB0eSk6bGFzdC1jaGlsZDphZnRlciB7Cgljb250ZW50OiAn4oCdJzsKfQoKLyogUHJlc2VydmUgd2hpdGVzcGFjZSBvbiBwbGFpbnRleHQgbm90ZXMgKi8KdWwubm90ZXMgbGkgcC5wbGFpbnRleHQsIGxpLm5vdGUgcC5wbGFpbnRleHQsIGRpdi5ub3RlIHAucGxhaW50ZXh0IHsKCXdoaXRlLXNwYWNlOiBwcmUtd3JhcDsKfQoKLyogRGlzcGxheSB0YWdzIHdpdGhpbiBjaGlsZCBub3RlcyBpbmxpbmUgKi8KdWwubm90ZXMgaDMudGFncyB7CglkaXNwbGF5OiBpbmxpbmU7Cglmb250LXNpemU6IDFlbTsKfQoKdWwubm90ZXMgaDMudGFnczphZnRlciB7Cgljb250ZW50OiAnICc7Cn0KCnVsLm5vdGVzIHVsLnRhZ3MgewoJZGlzcGxheTogaW5saW5lOwp9Cgp1bC5ub3RlcyB1bC50YWdzIGxpOm5vdCg6bGFzdC1jaGlsZCk6YWZ0ZXIgewoJY29udGVudDogJywgJzsKfQoKCi8qIENoaWxkIGF0dGFjaG1lbnRzICovCmgzLmF0dGFjaG1lbnRzIHsKCWZvbnQtc2l6ZTogMS4xZW07Cn0KCnVsLmF0dGFjaG1lbnRzIGxpIHsKCXBhZGRpbmctdG9wOiAuNWVtOwp9Cgp1bC5hdHRhY2htZW50cyBkaXYubm90ZSB7CgltYXJnaW4tbGVmdDogMmVtOwp9Cgp1bC5hdHRhY2htZW50cyBkaXYubm90ZSBwOmZpcnN0LWNoaWxkIHsKCW1hcmdpbi10b3A6IC43NWVtOwp9CgpkaXYgdGFibGUgewoJYm9yZGVyLWNvbGxhcHNlOiBjb2xsYXBzZTsKfQoKZGl2IHRhYmxlIHRkLCBkaXYgdGFibGUgdGggewoJYm9yZGVyOiAxcHggI2NjYyBzb2xpZDsKCWJvcmRlci1jb2xsYXBzZTogY29sbGFwc2U7Cgl3b3JkLWJyZWFrOiBicmVhay1hbGw7Cn0KCmRpdiB0YWJsZSB0ZCBwOmVtcHR5OjphZnRlciwgZGl2IHRhYmxlIHRoIHA6ZW1wdHk6OmFmdGVyIHsKCWNvbnRlbnQ6ICJcMDBhMCI7Cn0KCmRpdiB0YWJsZSB0ZCAqOmZpcnN0LWNoaWxkLCBkaXYgdGFibGUgdGggKjpmaXJzdC1jaGlsZCB7CgltYXJnaW4tdG9wOiAwOwp9CgpkaXYgdGFibGUgdGQgKjpsYXN0LWNoaWxkLCBkaXYgdGFibGUgdGggKjpsYXN0LWNoaWxkIHsKCW1hcmdpbi1ib3R0b206IDA7Cn0K">
+		<link rel="stylesheet" type="text/css" media="screen,projection" href="data:text/css;base64,LyogR2VuZXJpYyBzdHlsZXMgKi8KYm9keSB7Cglmb250OiA2Mi41JSBHZW9yZ2lhLCBUaW1lcywgc2VyaWY7Cgl3aWR0aDogNzgwcHg7CgltYXJnaW46IDAgYXV0bzsKfQoKaDIgewoJZm9udC1zaXplOiAxLjVlbTsKCWxpbmUtaGVpZ2h0OiAxLjVlbTsKCWZvbnQtZmFtaWx5OiBHZW9yZ2lhLCBUaW1lcywgc2VyaWY7Cn0KCnAgewoJbGluZS1oZWlnaHQ6IDEuNWVtOwp9CgphOmxpbmssIGE6dmlzaXRlZCB7Cgljb2xvcjogIzkwMDsKfQoKYTpob3ZlciwgYTphY3RpdmUgewoJY29sb3I6ICM3Nzc7Cn0KCgp1bC5yZXBvcnQgewoJZm9udC1zaXplOiAxLjRlbTsKCXdpZHRoOiA2ODBweDsKCW1hcmdpbjogMCBhdXRvOwoJcGFkZGluZzogMjBweCAyMHB4Owp9CgovKiBNZXRhZGF0YSB0YWJsZSAqLwp0YWJsZSB7Cglib3JkZXI6IDFweCAjY2NjIHNvbGlkOwoJb3ZlcmZsb3c6IGF1dG87Cgl3aWR0aDogMTAwJTsKCW1hcmdpbjogLjFlbSBhdXRvIC43NWVtOwoJcGFkZGluZzogMC41ZW07Cn0K">
+		<link rel="stylesheet" type="text/css" media="print" href="data:text/css;base64,Ym9keSB7Cglmb250OiAxMnB0ICJUaW1lcyBOZXcgUm9tYW4iLCBUaW1lcywgR2VvcmdpYSwgc2VyaWY7CgltYXJnaW46IDA7Cgl3aWR0aDogYXV0bzsKCWNvbG9yOiBibGFjazsKfQoKLyogUGFnZSBCcmVha3MgKHBhZ2UtYnJlYWstaW5zaWRlIG9ubHkgcmVjb2duaXplZCBieSBPcGVyYSkgKi8KaDEsIGgyLCBoMywgaDQsIGg1LCBoNiB7CglwYWdlLWJyZWFrLWFmdGVyOiBhdm9pZDsKCXBhZ2UtYnJlYWstaW5zaWRlOiBhdm9pZDsKfQoKdWwsIG9sLCBkbCB7CglwYWdlLWJyZWFrLWluc2lkZTogYXZvaWQ7Cgljb2xvci1hZGp1c3Q6IGV4YWN0Owp9CgpoMiB7Cglmb250LXNpemU6IDEuM2VtOwoJbGluZS1oZWlnaHQ6IDEuM2VtOwp9CgphIHsKCWNvbG9yOiAjMDAwOwoJdGV4dC1kZWNvcmF0aW9uOiBub25lOwp9Cg==">
+	</head>
+	<body>
+		<ul class="report combineChildItems">
+			<li id="item_PDICP46Q" class="item artwork">
+			<h2>Australian Bushranger Thunderbolt's Grave at Uralla, N.S.W. - 1973</h2>
+				<table>
+					<tbody><tr>
+						<th>Item Type</th>
+						<td>Artwork</td>
+					</tr>
+					<tr>
+						<th class="artist">Artist</th>
+						<td>Aussie~mobs</td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>Frederick Wordsworth Ward, better known by the self-styled 
+pseudonym of Captain Thunderbolt, was an Australian bushranger renowned 
+for escaping from Cockatoo Island, and also for his reputation as the 
+&amp;quot;gentleman bushranger&amp;quot; and his lengthy survival, being
+ the longest roaming bushranger in Australian history.</td>
+					</tr>
+					<tr>
+					<th>Medium</th>
+						<td>photo</td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>1973</td>
+					</tr>
+					<tr>
+					<th>Library Catalog</th>
+						<td>Flickr</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://www.flickr.com/photos/hwmobs/50549533183/">https://www.flickr.com/photos/hwmobs/50549533183/</a></td>
+					</tr>
+					<tr>
+					<th>Accessed</th>
+						<td>6/7/2023, 1:26:19 PM</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>6/7/2023, 1:26:19 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>6/7/2023, 1:26:54 PM</td>
+					</tr>
+				</tbody></table>
+				<h3 class="tags">Tags:</h3>
+				<ul class="tags">
+					<li>1973</li>
+					<li>aussiemobs</li>
+					<li>australia</li>
+					<li>burial</li>
+					<li>frederickwordsworthward</li>
+					<li>fredward</li>
+					<li>grave</li>
+					<li>newsouthwales</li>
+					<li>thunderbolt</li>
+					<li>uralla</li>
+					<li>vintage</li>
+				</ul>
+				<h3 class="notes">Notes:</h3>
+				<ul class="notes">
+					<li id="item_5E98S6GB">
+<div><div data-schema-version="8"><p><strong>Initial Analysis</strong></p>
+<p>Black and white photo of Frederick Ward aka Captain Thunderbolts grave. </p>
+<p><strong>Structured Analysis</strong></p>
+<ol>
+<li>
+<p>Why was the image taken?</p>
+<p>Taken as a tourist visiting famous sites on their way through Uralla. More for the memory than any historical purpose.</p>
+<p></p>
+</li>
+<li>
+<p>How does the image portray Thunderbolt?</p>
+<p>N/A</p>
+<p></p>
+</li>
+<li>
+<p>What is the mood of the image? What feeling does it convey?</p>
+<p>The grave almost seems to small for such a large Australian 
+character, conveying an anticlimactic feeling as well as the reality of 
+time.</p>
+<p></p>
+</li>
+<li>
+<p>What insights does it provide for the case study?</p>
+<p>Gives illustration to contextual information. </p>
+<p></p>
+</li>
+<li>
+<p>Was the image staged or natural?</p>
+<p> A natural image.</p>
+</li>
+</ol>
+</div></div>
+				<h3 class="tags">Tags:</h3>
+				<ul class="tags">
+					<li>Death</li>
+					<li>NSW</li>
+					<li>Thunderbolt</li>
+					<li>Uralla</li>
+				</ul>
+					</li>
+				</ul>
+				<h3 class="attachments">Attachments</h3>
+				<ul class="attachments">
+					<li id="item_KM8L2GNC">Australian Bushranger Thunderbolt's Grave at Uralla, N.S.W. - 1973					</li>
+				</ul>
+			</li>
+
+
+			<li id="item_ZUX3E7XN" class="item artwork">
+			<h2>Cadaver of Frederick Ward, the bushranger Captain Thunderbolt, ca. May-June 1870 / photographer A. Cunningham, Armidale</h2>
+				<table>
+					<tbody><tr>
+						<th>Item Type</th>
+						<td>Artwork</td>
+					</tr>
+					<tr>
+						<th class="artist">Artist</th>
+						<td>Andrew Cunningham</td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>1 photographic print - 10.3 x 6.3 cm - carte de visite</td>
+					</tr>
+					<tr>
+					<th>Language</th>
+						<td>en</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://collection.sl.nsw.gov.au/record/1Jkm40oY">https://collection.sl.nsw.gov.au/record/1Jkm40oY</a></td>
+					</tr>
+					<tr>
+					<th>Accessed</th>
+						<td>6/5/2023, 4:33:15 PM</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>6/5/2023, 4:33:15 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>6/7/2023, 1:39:13 PM</td>
+					</tr>
+				</tbody></table>
+				<h3 class="notes">Notes:</h3>
+				<ul class="notes">
+					<li id="item_TRDMZN6D">
+<div><div data-schema-version="8"><p><strong>Initial Analysis</strong></p>
+<p>Similar to the cadaver picture, just with his hat included, not 
+really a positive portrayal of Thunderbolt. I’am curious as to why they 
+put his hat back on.</p>
+<p><strong>Structured Analysis</strong></p>
+<ol>
+<li>
+<p>Why was the image taken?</p>
+<p>Andrew Cunningham (Armidales photographer in 1870) was reporting on the events of Frederick Wards death.</p>
+<p></p>
+</li>
+<li>
+<p>How does the image portray Thunderbolt?</p>
+<p>A primary source of Thunderbolt. The photo actually is of Frederick 
+Ward, though in death. He looks almost tired, grimy and rough. He is 
+wearing his hat, an iconic characteristic of Thunderbolt in later 
+pictures.</p>
+<p></p>
+</li>
+<li>
+<p>What is the mood of the image? What feeling does it convey?</p>
+<p>A very solemn mood is conveyed. Shocked feelings due to the way his body is displayed and in such a public way.</p>
+<p></p>
+</li>
+<li>
+<p>What insights does it provide for the case study?</p>
+<p>The public apparently flocked to both see Thunderbolts body and 
+newspapers were printing this photo. The public seemed to be in shock 
+and disbelief that this national identity, who seemed larger than life 
+was now dead. Brings some realism to the public instead of the over 
+indulged stories of Thunderbolt that are included in the case study. 
+Though his death is further capitalised on as we see in other historic 
+images.</p>
+<p></p>
+</li>
+<li>
+<p>Was the image staged or natural?</p>
+<p>The photo is both staged and natural. Staged as Thunderbolt obviously
+ was propped up and put on display. Natural in that the photo is of a 
+real individual.</p>
+</li>
+</ol>
+</div></div>
+				<h3 class="tags">Tags:</h3>
+				<ul class="tags">
+					<li>Death</li>
+					<li>Thunderbolt</li>
+				</ul>
+					</li>
+				</ul>
+				<h3 class="attachments">Attachments</h3>
+				<ul class="attachments">
+					<li id="item_2EIGY8UR">Snapshot					</li>
+				</ul>
+			</li>
+
+
+			<li id="item_XTTINFMS" class="item artwork">
+			<h2>Captain Thunderbolt (1955)</h2>
+				<table>
+					<tbody><tr>
+						<th>Item Type</th>
+						<td>Artwork</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://www.imdb.com/title/tt0045606/mediaviewer/rm2330317569/?ref_=tt_ov_i">https://www.imdb.com/title/tt0045606/mediaviewer/rm2330317569/?ref_=tt_ov_i</a></td>
+					</tr>
+					<tr>
+					<th>Accessed</th>
+						<td>6/5/2023, 3:39:15 PM</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>6/5/2023, 3:39:15 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>6/5/2023, 3:39:26 PM</td>
+					</tr>
+				</tbody></table>
+				<h3 class="notes">Notes:</h3>
+				<ul class="notes">
+					<li id="item_8G6TSEHI">
+<div><div data-schema-version="8"><p><strong>Initial Analysis</strong></p>
+<p>Movie poster promoting the movie Captain Thunderbolt in 1955. The 
+desperado or hero line correlates a more dramatic playout of his life 
+and romance.</p>
+<p><strong>Structured Analysis</strong></p>
+<ol>
+<li>
+<p>Why was the image taken or produced?</p>
+<p>This photo is an advertisement/poster of the 1953/55 film Captain 
+Thunderbolt. It was created to promote the screening of this movie. </p>
+<p></p>
+</li>
+<li>
+<p>How does the image portray Thunderbolt?</p>
+<p>Thunderbolt is played by an attractive and heroic actor (Grant 
+Taylor). He seems stoic, handsome and charismatic all in the one image. </p>
+<p></p>
+</li>
+<li>
+<p>What is the mood of the image? What feeling does it convey?</p>
+<p>The image conveys a bold mood, with the themes of a valiant outlaw 
+being heavily portrayed through large capped text and the actors brave 
+and serious body language and expressions. </p>
+<p></p>
+</li>
+<li>
+<p>What insights does it provide for the case study?</p>
+<p>Highlights direct modern interpretations of Thunderbolts life and how
+ the film industry used this concept to address social issues at the 
+time. </p>
+<p></p>
+</li>
+<li>
+<p>Was the image staged or natural?</p>
+<p>Image was staged with the purpose of appealing to the public. This 
+would increase movie ticket sales and make it a more attractive sell. 
+Bold lettering, well known actors and a heroic figure make for a 
+thrilling movie poster.</p>
+</li>
+</ol>
+</div></div>
+				<h3 class="tags">Tags:</h3>
+				<ul class="tags">
+					<li>Reenactment</li>
+					<li>Theatre</li>
+					<li>Thunderbolt</li>
+				</ul>
+					</li>
+				</ul>
+				<h3 class="attachments">Attachments</h3>
+				<ul class="attachments">
+					<li id="item_3ZPRS4DQ">Captain Thunderbolt (1955)					</li>
+				</ul>
+			</li>
+
+
+			<li id="item_WARUUMXM" class="item artwork">
+			<h2>Captain Thunderbolt [film production?], 8 May 1951 / photographs by Eric Francis</h2>
+				<table>
+					<tbody><tr>
+						<th>Item Type</th>
+						<td>Artwork</td>
+					</tr>
+					<tr>
+						<th class="artist">Artist</th>
+						<td>Eric Francis</td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>May 1951</td>
+					</tr>
+					<tr>
+					<th>Call Number</th>
+						<td>085</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://collection.sl.nsw.gov.au/record/n5lX6Ja9#viewer">https://collection.sl.nsw.gov.au/record/n5lX6Ja9#viewer</a></td>
+					</tr>
+					<tr>
+					<th>Accessed</th>
+						<td>6/5/2023, 4:25:44 PM</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>6/5/2023, 4:25:44 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>6/5/2023, 4:33:15 PM</td>
+					</tr>
+				</tbody></table>
+				<h3 class="notes">Notes:</h3>
+				<ul class="notes">
+					<li id="item_3LHVDMWG">
+<div><div data-schema-version="8"><p><strong>Initial Analysis</strong></p>
+<p>Romanticized reenactments of Thunderbolts life. Spins his actions 
+like the Australian Robin Hood even though this was far from who he was.</p>
+<p><strong>Structured Analysis</strong></p>
+<ol>
+<li>
+<p>Why was the image taken?</p>
+<p>The image is a still shot out of the film <em>Captain Thunderbolt </em>by Cecil Holmes.</p>
+<p></p>
+</li>
+<li>
+<p>How does the image portray Thunderbolt?</p>
+<p>Thunderbolt appears charismatic, attractive and drawing the attention
+ of everyone around him. He appears carefree and dressed like a 
+gentleman. </p>
+<p></p>
+</li>
+<li>
+<p>What is the mood of the image? What feeling does it convey?</p>
+<p>The image conveys a happy and jolly mood. Like those in the picture are enjoying the company of such an exclaimed outlaw.</p>
+<p></p>
+</li>
+<li>
+<p>What insights does it provide for the case study?</p>
+<p>Provides the case study with an example of modern representations of Captain Thunderbolt and how is portrayed to the public. </p>
+<p></p>
+</li>
+<li>
+<p>Was the image staged or natural?</p>
+<p>The image as it is a shot from a film is staged in the case that they
+ are acting, but the image is a natural caption of movement without the 
+individuals knowing it would be captured as a still frame.</p>
+</li>
+</ol>
+</div></div>
+				<h3 class="tags">Tags:</h3>
+				<ul class="tags">
+					<li>reenactment</li>
+					<li>theatre</li>
+					<li>Thunderbolt</li>
+				</ul>
+					</li>
+				</ul>
+				<h3 class="attachments">Attachments</h3>
+				<ul class="attachments">
+					<li id="item_IHLD6ARH">90832595037636551876611616751112202305.jpg (6942×5477)					</li>
+				</ul>
+			</li>
+
+
+			<li id="item_7EQCUIQN" class="item artwork">
+			<h2>‘Capture of “Thun­der­bolt”</h2>
+				<table>
+					<tbody><tr>
+						<th>Item Type</th>
+						<td>Artwork</td>
+					</tr>
+					<tr>
+						<th class="artist">Artist</th>
+						<td>Andrew Messner</td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>Essay upon Andrew Cunningham's 1870 photographs relating to 
+the death of bushranger Frederick Ward (Captain Thunderbolt) near 
+Uralla.</td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>2018-10-01T09:12:57+00:00</td>
+					</tr>
+					<tr>
+					<th>Language</th>
+						<td>en-AU</td>
+					</tr>
+					<tr>
+					<th>Short Title</th>
+						<td>‘Capture of “Thun­der­bolt”‘ Illustrated Sydney News</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://andrewmessner.net/2018/10/01/andrew-cunninghams-1870-thunderbolt-photographs/">https://andrewmessner.net/2018/10/01/andrew-cunninghams-1870-thunderbolt-photographs/</a></td>
+					</tr>
+					<tr>
+					<th>Accessed</th>
+						<td>6/6/2023, 2:01:24 AM</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>6/6/2023, 2:01:24 AM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>6/7/2023, 1:52:52 AM</td>
+					</tr>
+				</tbody></table>
+				<h3 class="notes">Notes:</h3>
+				<ul class="notes">
+					<li id="item_Y573NVCL">
+<div><div data-schema-version="8"><p><strong>Initial Analysis</strong></p>
+<p>Seeing large differences between each of the illustrations of 
+Thunderbolts death. What is each one saying? This shows Thunderbolt 
+fleeing and Walker in a higher position suggesting he has the power.</p>
+<p><strong>Structured Analysis</strong></p>
+<ol>
+<li>
+<p>Why was the image taken/created?</p>
+<p>Created by Sydney newspaper to illustrate the capture of Captain Thunderbolt. Does not show his death.</p>
+<p></p>
+</li>
+<li>
+<p>How does the image portray Thunderbolt?</p>
+<p>Portrays Thunderbolt fleeing from Walker. Running instead of 
+fighting, with his horse in the throws of death in the background. 
+Walkers positioning automatically gives him the higher ground, linking 
+to connections of superiority of law enforcement.</p>
+<p></p>
+</li>
+<li>
+<p>What is the mood of the image? What feeling does it convey?</p>
+<p>The image conveys a feeling of success, on the part of the local 
+police. They finally had Thunderbolt on the run and fleeing from them, 
+instead of Thunderbolt always seeming to have the upper hand and 
+escaping.</p>
+<p></p>
+<p></p>
+</li>
+<li>
+<p>What insights does it provide for the case study?</p>
+<p>Highlights an interesting spin on the events that lead to the capture
+ and death of Thunderbolt. He doesn’t appear to be aiming back, which is
+ known from walkers accounts to have happened.</p>
+<p></p>
+</li>
+<li>
+<p>Was the image staged or natural?</p>
+<p>A staged drawing based on real events. </p>
+<p></p>
+</li>
+</ol>
+</div></div>
+				<h3 class="tags">Tags:</h3>
+				<ul class="tags">
+					<li>death</li>
+					<li>Thunderbolt</li>
+				</ul>
+					</li>
+				</ul>
+				<h3 class="attachments">Attachments</h3>
+				<ul class="attachments">
+					<li id="item_EV8EQINE">Snapshot					</li>
+				</ul>
+			</li>
+
+
+			<li id="item_MUB4JLK8" class="item artwork">
+			<h2>‘Capture of Thun­der­bolt’</h2>
+				<table>
+					<tbody><tr>
+						<th>Item Type</th>
+						<td>Artwork</td>
+					</tr>
+					<tr>
+						<th class="artist">Artist</th>
+						<td>Andrew Cunningham</td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>Essay upon Andrew Cunningham's 1870 photographs relating to 
+the death of bushranger Frederick Ward (Captain Thunderbolt) near 
+Uralla.</td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>1870</td>
+					</tr>
+					<tr>
+					<th>Language</th>
+						<td>en-AU</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://andrewmessner.net/wp-content/uploads/2019/04/Reenactment-768x510.jpg">https://andrewmessner.net/wp-content/uploads/2019/04/Reenactment-768x510.jpg</a></td>
+					</tr>
+					<tr>
+					<th>Accessed</th>
+						<td>6/7/2023, 12:52:27 PM</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>6/7/2023, 12:52:27 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>6/7/2023, 12:53:31 PM</td>
+					</tr>
+				</tbody></table>
+				<h3 class="notes">Notes:</h3>
+				<ul class="notes">
+					<li id="item_RWA8VM2T">
+<div><div data-schema-version="8"><p><strong>Initial Analysis</strong></p>
+<p>A different reenactment photo taken in the year of Thunderbolts 
+death. The figure playing Thunderbolt is more bearded, maybe to better 
+characterise Thunderbolt for the photos?</p>
+<p><strong>Structured Analysis</strong></p>
+<ol>
+<li>
+<p>Why was the image taken?</p>
+<p>To provide a visual record of the events of Thunderbolts capture.</p>
+<p></p>
+</li>
+<li>
+<p>How does the image portray Thunderbolt?</p>
+<p>Thunderbolt is shown to have a beard and is on foot in this image and is aiming his gun back to Walker. </p>
+<p></p>
+</li>
+<li>
+<p>What is the mood of the image? What feeling does it convey?</p>
+<p>Mood is similar to the other reenactment photo taken by Andrew 
+Cunningham. There is a tension conveyed through the photo, showing the 
+viewer what the situation might have felt like.</p>
+<p></p>
+</li>
+<li>
+<p>What insights does it provide for the case study?</p>
+<p>Provides the second source of a visual account of the events of 
+Thunderbolts death. The lack of illustrators interpretation to the 
+extent of some of the drawn images increases the accuracy of its factual
+ quality. </p>
+<p></p>
+</li>
+<li>
+<p>Was the image staged or natural?</p>
+<p>Stage based on Walkers account of events. </p>
+</li>
+</ol>
+</div></div>
+				<h3 class="tags">Tags:</h3>
+				<ul class="tags">
+					<li>Death</li>
+					<li>Reenactment</li>
+					<li>Thunderbolt</li>
+				</ul>
+					</li>
+				</ul>
+				<h3 class="attachments">Attachments</h3>
+				<ul class="attachments">
+					<li id="item_GAWE4DY8">Snapshot					</li>
+				</ul>
+				<h3 class="related">Related</h3>
+				<ul class="related">
+					<li id="item_INUVEF3R">Initial Analysis</li>
+				</ul>
+			</li>
+
+
+			<li id="item_GJXTB5UM" class="item artwork">
+			<h2>Cockatoo Island – Our Pangaea</h2>
+				<table>
+					<tbody><tr>
+						<th>Item Type</th>
+						<td>Artwork</td>
+					</tr>
+					<tr>
+						<th class="artist">Artist</th>
+						<td>Bill</td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>2016-10-18</td>
+					</tr>
+					<tr>
+					<th>Language</th>
+						<td>en-US</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://www.ourpangaea.net/?p=7745">https://www.ourpangaea.net/?p=7745</a></td>
+					</tr>
+					<tr>
+					<th>Accessed</th>
+						<td>6/6/2023, 10:57:06 AM</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>6/6/2023, 10:57:06 AM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>6/6/2023, 10:57:10 AM</td>
+					</tr>
+				</tbody></table>
+				<h3 class="notes">Notes:</h3>
+				<ul class="notes">
+					<li id="item_A43CVWFT">
+<div><div data-schema-version="8"><p><strong>Initial Analysis</strong></p>
+<p>A well taken photo, showing the entire geography of Cockatoo Island 
+and its location with the Sydney Harbour. Is a good contextual example 
+to illustrate Frederick Wards escape from the gaol there in 1863.</p>
+<p><strong>Structured Analysis</strong></p>
+<ol>
+<li>
+<p>Why was the image taken/created?</p>
+<p>The photo was most likely taken to capture Cocktatoo Island. Either 
+for historical record purposes, to capture the geography of the Sydney 
+Harbour, or for the industries operating there today.</p>
+<p></p>
+</li>
+<li>
+<p>How does the image portray Thunderbolt?</p>
+<p>N/A</p>
+<p></p>
+</li>
+<li>
+<p>What is the mood of the image? What feeling does it convey?</p>
+<p>N/A</p>
+<p></p>
+<p></p>
+</li>
+<li>
+<p>What insights does it provide for the case study?</p>
+<p>Provides the case study with a visual context to illustrate events 
+that occurred in Thunderbolts life, such as his escape from the 
+Cocktatoo Island prison in 1863. </p>
+<p></p>
+</li>
+<li>
+<p>Was the image staged or natural?</p>
+<p>The image is a naturally captured photo, with no staging.</p>
+<p></p>
+</li>
+</ol>
+</div></div>
+					</li>
+				</ul>
+				<h3 class="attachments">Attachments</h3>
+				<ul class="attachments">
+					<li id="item_2YN2NBBF">Snapshot					</li>
+				</ul>
+			</li>
+
+
+			<li id="item_D4VZGI85" class="item artwork">
+			<h2>Constable Alexander Binning Walker, who killed the bushranger 
+Thunderbolt, ca. May-June 1870 / photographer A. Cunningham, Armidale</h2>
+				<table>
+					<tbody><tr>
+						<th>Item Type</th>
+						<td>Artwork</td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>1 photographic print - 10.5 x 6.4 cm - carte de visite</td>
+					</tr>
+					<tr>
+					<th>Language</th>
+						<td>en</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://collection.sl.nsw.gov.au/record/1Drm3v59">https://collection.sl.nsw.gov.au/record/1Drm3v59</a></td>
+					</tr>
+					<tr>
+					<th>Accessed</th>
+						<td>6/5/2023, 10:29:57 PM</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>6/5/2023, 10:29:57 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>6/5/2023, 10:30:06 PM</td>
+					</tr>
+				</tbody></table>
+				<h3 class="notes">Notes:</h3>
+				<ul class="notes">
+					<li id="item_ICUI2FLI">
+<div><div data-schema-version="8"><p><strong>Initial Analysis</strong></p>
+<p>Provides a historically accurate portrayal of Constable Walker. Gives
+ context the individual who was the one too kill/capture Thunderbolt.</p>
+<p><strong>Structured Analysis</strong></p>
+<ol>
+<li>
+<p>Why was the image taken?</p>
+<p>The photo was taken by the only photographer in Armidale at the time 
+of Wards death in 1870. Andrew Cunningham wanted to record the events of
+ the bushrangers death (Messner, 2018). The photo was more than likely 
+taken to have a record of the Constable who pursued and killed 
+Thunderbolt. </p>
+<p></p>
+</li>
+<li>
+<p>How does the image portray Thunderbolt?</p>
+<p>The photo doesn’t directly portray the Australian bushranger. 
+Provides a primary source of the person responsible for apprehending 
+Thunderbolt.</p>
+<p></p>
+</li>
+<li>
+<p>What is the mood of the image? What feeling does it convey?</p>
+<p>The photo like the Mary Ann Bugg portrait, has a very serious mood 
+reminiscent of the 1800s style of portrait photography. Alexander 
+Walkers stances is very official and posed, conveying the feeling of a 
+formal photograph of importance. Cunningham seemed to want to produce a 
+serious photographic record of the man who brought down the famous 
+Thunderbolt. </p>
+<p></p>
+</li>
+<li>
+<p>What insights does it provide for the case study?</p>
+<p>Provides the viewer with a visualisation of the famous Constable 
+Walker. Portrays him as just a man, without the ‘evil’ law enforcement 
+tag that many of the dramatised renditions of Thunderbolts death seem to
+ contain. Links to research questions of interpretation from secondary 
+perspectives. </p>
+<p></p>
+</li>
+<li>
+<p>Was the image staged or natural?</p>
+<p>The portrait was staged, with props such as the chair, Walkers 
+posture and the background setting providing the photo with a formal 
+characterisation. </p>
+</li>
+</ol>
+</div></div>
+				<h3 class="tags">Tags:</h3>
+				<ul class="tags">
+					<li>death</li>
+					<li>Thunderbolt</li>
+				</ul>
+					</li>
+				</ul>
+				<h3 class="attachments">Attachments</h3>
+				<ul class="attachments">
+					<li id="item_5SBQFKU3">Snapshot					</li>
+				</ul>
+			</li>
+
+
+			<li id="item_MPG2KT8N" class="item artwork">
+			<h2>Death of Thun­der­bolt, the bush­ranger’,</h2>
+				<table>
+					<tbody><tr>
+						<th>Item Type</th>
+						<td>Artwork</td>
+					</tr>
+					<tr>
+						<th class="artist">Artist</th>
+						<td>Andrew Messner</td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>Essay upon Andrew Cunningham's 1870 photographs relating to 
+the death of bushranger Frederick Ward (Captain Thunderbolt) near 
+Uralla.</td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>18 June 1870</td>
+					</tr>
+					<tr>
+					<th>Language</th>
+						<td>en-AU</td>
+					</tr>
+					<tr>
+					<th>Short Title</th>
+						<td>Illustrated News for Home Readers</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://andrewmessner.net/wp-content/uploads/2019/04/IANHR-768x620.jpg">https://andrewmessner.net/wp-content/uploads/2019/04/IANHR-768x620.jpg</a></td>
+					</tr>
+					<tr>
+					<th>Accessed</th>
+						<td>6/6/2023, 1:56:02 AM</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>6/6/2023, 1:56:02 AM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>6/7/2023, 12:32:29 PM</td>
+					</tr>
+				</tbody></table>
+				<h3 class="notes">Notes:</h3>
+				<ul class="notes">
+					<li id="item_3D5KW6J9">
+<div><div data-schema-version="8"><p><strong>Initial Analysis</strong></p>
+<p>Thunderbolt looks heart broken and Walker is on a horse when they 
+were both on foot. Focus on the little details highlights the impact of 
+an illustrators choices.</p>
+<p><strong>Structured Analysis</strong></p>
+<ol>
+<li>
+<p>Why was the image taken/created?</p>
+<p>Image was created to illustrate the death of Thunderbolt for the readers of Illustrated News for Home Readers. </p>
+<p></p>
+</li>
+<li>
+<p>How does the image portray Thunderbolt?</p>
+<p>Portrays Thunderbolt in the throws of being shot. The shock on his 
+face is evident and the gun falling from his hand links well to the 
+accounts of Walker establishing that he had a gun and was struggling 
+against the attempts of capture. </p>
+<p></p>
+</li>
+<li>
+<p>What is the mood of the image? What feeling does it convey?</p>
+<p>The drawing conveys traces of personal feeling such as Thunderbolts 
+shock and grasping body language. Constable Walker appears stoic and 
+serious display a mood that highlights a commitment to justice. </p>
+<p></p>
+</li>
+<li>
+<p>What insights does it provide for the case study?</p>
+<p>Provides the case study with another representation of Thunderbolt. 
+One that highlights public perception in contrast to historical facts. </p>
+<p></p>
+</li>
+<li>
+<p>Was the image staged or natural?</p>
+<p>Staged on the basis of written accounts, and at the interpretation of the illustrator. </p>
+</li>
+</ol>
+</div></div>
+				<h3 class="tags">Tags:</h3>
+				<ul class="tags">
+					<li>Death</li>
+					<li>Thunderbolt</li>
+				</ul>
+					</li>
+				</ul>
+				<h3 class="attachments">Attachments</h3>
+				<ul class="attachments">
+					<li id="item_SZ4IMA65">Snapshot					</li>
+				</ul>
+			</li>
+
+
+			<li id="item_3TVQJS6W" class="item artwork">
+			<h2>Frederick Ward aka bushranger Captain Thunderbolt biography</h2>
+				<table>
+					<tbody><tr>
+						<th>Item Type</th>
+						<td>Artwork</td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>Bushranger Frederick Ward (1835-1870), also known as Captain 
+Thunderbolt, robbed in the northern districts of New South Wales in the 
+1860s</td>
+					</tr>
+					<tr>
+					<th>Language</th>
+						<td>en</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="http://thunderboltbushranger.com.au/frederick-ward-biography.html">http://thunderboltbushranger.com.au/frederick-ward-biography.html</a></td>
+					</tr>
+					<tr>
+					<th>Accessed</th>
+						<td>6/7/2023, 1:16:20 PM</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>6/7/2023, 1:16:20 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>6/7/2023, 1:16:27 PM</td>
+					</tr>
+				</tbody></table>
+				<h3 class="attachments">Attachments</h3>
+				<ul class="attachments">
+					<li id="item_X263LVZ3">Snapshot					</li>
+				</ul>
+			</li>
+
+
+			<li id="item_FWX3L3YP" class="item artwork">
+			<h2>Frederick Ward, alias Thunderbolt</h2>
+				<table>
+					<tbody><tr>
+						<th>Item Type</th>
+						<td>Artwork</td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>Illustrated Sydney News</td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>8 June 1870</td>
+					</tr>
+					<tr>
+					<th>Language</th>
+						<td>en-AU</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://andrewmessner.net/wp-content/uploads/2019/04/ISN-8-6-70-Ward.png">https://andrewmessner.net/wp-content/uploads/2019/04/ISN-8-6-70-Ward.png</a></td>
+					</tr>
+					<tr>
+					<th>Accessed</th>
+						<td>6/7/2023, 1:08:14 PM</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>6/7/2023, 1:08:14 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>6/7/2023, 1:09:14 PM</td>
+					</tr>
+				</tbody></table>
+				<h3 class="notes">Notes:</h3>
+				<ul class="notes">
+					<li id="item_DS8ZD9FM">
+<div><div data-schema-version="8"><p><strong>Initial Analysis</strong></p>
+<p>Appears very serious and foreboding, with the thinning hair giving 
+Thunderbolt a grimy feel. Highlights how Newspapers spread drawn 
+pictures of individuals that are based on eye witness accounts not on 
+personal experiences.</p>
+<p><strong>Structured Analysis</strong></p>
+<ol>
+<li>
+<p>Why was the image taken?</p>
+<p>The drawing was most likely drawn to enable police to circulate this 
+image in order for the public to better recognise the criminal and 
+increase his chances of being captured. </p>
+<p></p>
+</li>
+<li>
+<p>How does the image portray Thunderbolt?</p>
+<p>Dark sketch drawing of Frederick Ward otherwise known as Captain 
+Thunderbolt. Ward looks serious and solemn, unlike his charming public 
+personality.</p>
+<p></p>
+</li>
+<li>
+<p>What is the mood of the image? What feeling does it convey?</p>
+<p>A very dark and serious mood. Does not convey his apparently gentlemanly and charming personality.</p>
+<p></p>
+</li>
+<li>
+<p>What insights does it provide for the case study?</p>
+<p>Provides a representation of the contemporary illustrations of thunderbolt without the use of photography. </p>
+<p></p>
+</li>
+<li>
+<p>Was the image staged or natural?</p>
+<p>Staged position and characterisation of Thunderbolt.</p>
+</li>
+</ol>
+</div></div>
+				<h3 class="tags">Tags:</h3>
+				<ul class="tags">
+					<li>Police</li>
+					<li>Thunderbolt</li>
+				</ul>
+					</li>
+				</ul>
+				<h3 class="attachments">Attachments</h3>
+				<ul class="attachments">
+					<li id="item_8YAXG6N4">Snapshot					</li>
+				</ul>
+			</li>
+
+
+			<li id="item_4P8WDEJ7" class="item artwork">
+			<h2>Looking for Captain Thunderbolt (Cecil Holmes, 1953) – Senses of Cinema</h2>
+				<table>
+					<tbody><tr>
+						<th>Item Type</th>
+						<td>Artwork</td>
+					</tr>
+					<tr>
+						<th class="artist">Artist</th>
+						<td>David</td>
+					</tr>
+					<tr>
+					<th>Language</th>
+						<td>en-US</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://www.sensesofcinema.com/wp-content/uploads/2014/02/Captain-Thunderbolt2-750x400.jpg">https://www.sensesofcinema.com/wp-content/uploads/2014/02/Captain-Thunderbolt2-750x400.jpg</a></td>
+					</tr>
+					<tr>
+					<th>Accessed</th>
+						<td>6/7/2023, 1:19:03 PM</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>6/7/2023, 1:19:03 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>6/7/2023, 1:24:47 PM</td>
+					</tr>
+				</tbody></table>
+				<h3 class="notes">Notes:</h3>
+				<ul class="notes">
+					<li id="item_36M97TN6">
+<div><div data-schema-version="8"><p><strong>Initial Analysis</strong></p>
+<p>Bold introduction to the 1953/55 film Captain Thunderbolt. Font suggests a bold and brave individual.</p>
+<p><strong>Structured Analysis</strong></p>
+<ol>
+<li>
+<p>Why was the image taken/created?</p>
+<p>Is a still shot out of the film. Is the introduction to the movie, setting the mood and initial description for the character.</p>
+<p></p>
+</li>
+<li>
+<p>How does the image portray Thunderbolt?</p>
+<p>As a bold and brave character, more hero like than criminal.</p>
+<p></p>
+</li>
+<li>
+<p>What is the mood of the image? What feeling does it convey?</p>
+<p>The image has a bold, brave and heroic mood to it, conveying a sense of justice and idealization rather than fear and disgust.</p>
+<p></p>
+</li>
+<li>
+<p>What insights does it provide for the case study?</p>
+<p>Shows how non-contemporary platforms illustrated Thunderbolt as a 
+character rather than a real life criminal who terrorised the NSW area.</p>
+<p></p>
+</li>
+<li>
+<p>Was the image staged or natural?</p>
+<p>N/A</p>
+</li>
+</ol>
+</div></div>
+					</li>
+				</ul>
+				<h3 class="attachments">Attachments</h3>
+				<ul class="attachments">
+					<li id="item_DYGQV64L">Snapshot					</li>
+				</ul>
+			</li>
+
+
+			<li id="item_9M6XL2V6" class="item artwork">
+			<h2>Mary Ann Buggs</h2>
+				<table>
+					<tbody><tr>
+						<th>Item Type</th>
+						<td>Artwork</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://www.rahs.org.au/mary-ann-bugg-1834-1905/">https://www.rahs.org.au/mary-ann-bugg-1834-1905/</a></td>
+					</tr>
+					<tr>
+					<th>Accessed</th>
+						<td>6/5/2023, 4:54:59 PM</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>6/5/2023, 4:54:59 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>6/5/2023, 4:55:33 PM</td>
+					</tr>
+				</tbody></table>
+				<h3 class="notes">Notes:</h3>
+				<ul class="notes">
+					<li id="item_HGKEYAYT">
+<div><div data-schema-version="8"><p><strong>Initial Analysis</strong></p>
+<p>Captain Thunderbolts wife, Mary Ann Buggs. Gaps in what year this 
+photo was taken, by who and where, so all thats available is her name to
+ the photo.</p>
+<p><strong>Structured Analysis</strong></p>
+<ol>
+<li>
+<p>Why was the image taken?</p>
+<p>This photo seems to most likely have been taken as a portrait of 
+Captain Thunderbolts partner Mary Ann Buggs. It could have been taken at
+ her request. She does seem to have dressed well for the occasion Maybe 
+it was a photo for Frederick Ward himself, though this is playing 
+heavily on the romance between the two and is just an outer secondary 
+perspective.</p>
+<p></p>
+</li>
+<li>
+<p>How does the image portray Thunderbolt?</p>
+<p>The image isn’t directly related to Thunderbolt. The photo provides 
+more context for the people who surrounded Thunderbolt, illustrating the
+ background information that the case study includes.</p>
+<p></p>
+</li>
+<li>
+<p>What is the mood of the image? What feeling does it convey?</p>
+<p>Though the photo is a self portrait, it has a very solemn mood. This 
+is a characteristic of photographs of the times (Diamond, 2019). </p>
+</li>
+<li>
+<p>What insights does it provide for the case study?</p>
+<p>This photo does not provide significant direct insights into the case
+ study of Thunderbolts crimes representations on digital and historical 
+platforms. It’s role in this collection was to provide contextual images
+ relating to individuals who were especially significant to Thunderbolt.
+ As Mary Ann Buggs was his partner and the mother of his children the 
+inclusion of this image is valid.</p>
+<p></p>
+</li>
+<li>
+<p>Was the image staged or natural?</p>
+<p>The photo was staged for personal use. The way she is standing, with 
+her arm propped on a chair is a classic characterisation of portraits in
+ the 1800s. The background is a staged setting to give the photo an air 
+of seriousness and regality.</p>
+</li>
+</ol>
+</div></div>
+				<h3 class="tags">Tags:</h3>
+				<ul class="tags">
+					<li>Thunderbolt</li>
+					<li>Wife</li>
+				</ul>
+					</li>
+				</ul>
+				<h3 class="attachments">Attachments</h3>
+				<ul class="attachments">
+					<li id="item_2NL9TY3T">Mary-Ann.jpg (500×666)					</li>
+				</ul>
+			</li>
+
+
+			<li id="item_92EAKPAM" class="item artwork">
+			<h2>Published Engraving that appeared in the Australian Town and Country Journal on 4th of June 1870</h2>
+				<table>
+					<tbody><tr>
+						<th>Item Type</th>
+						<td>Artwork</td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>First Published Engraving of Thunderbolts Death</td>
+					</tr>
+					<tr>
+					<th>Short Title</th>
+						<td>Published Engraving that appeared in the Australian Town and Country Journal on 4th of June 1870</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://andrewmessner.net/wp-content/uploads/2019/04/atcj-4-6-70-p24-ward-illustration-768x458.jpg">https://andrewmessner.net/wp-content/uploads/2019/04/atcj-4-6-70-p24-ward-illustration-768x458.jpg</a></td>
+					</tr>
+					<tr>
+					<th>Accessed</th>
+						<td>6/6/2023, 1:59:41 AM</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>6/6/2023, 1:59:41 AM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>6/7/2023, 1:53:52 AM</td>
+					</tr>
+				</tbody></table>
+				<h3 class="notes">Notes:</h3>
+				<ul class="notes">
+					<li id="item_J2IZX9W6">
+<div><div data-schema-version="8"><p><strong>Initial Analysis</strong></p>
+<p>As Walker is the only eye witness, the details of the drawings can 
+sometimes stray from the original story. Is this for dramatic effect?</p>
+<p><strong>Structured Analysis</strong></p>
+<ol>
+<li>
+<p>Why was the image taken/created?</p>
+<p>To illustrate the death of the Australian bushranger Captain Thunderbolt in published news articles.</p>
+<p></p>
+</li>
+<li>
+<p>How does the image portray Thunderbolt?</p>
+<p>Portrays Thunderbolt as a bearded typical Australian bushman with the
+ cattlemans hat. Two guns around his waist and one failing from his 
+hand. Death through a duel comes to mind. Thunderbolt has a shocked look
+ on his face.</p>
+<p></p>
+</li>
+<li>
+<p>What is the mood of the image? What feeling does it convey?</p>
+<p>The image has a very disbelieving and sudden mood to it. Like the 
+illustrators wants to convey that Thunderbolt did not see his death 
+coming like this.</p>
+<p></p>
+</li>
+<li>
+<p>What insights does it provide for the case study?</p>
+<p>Gives insight into how the contemporary newspapers at the time 
+portrayed Thunderbolts death. Interesting to see what details were 
+missed or drawn incorrectly. Special focus on the amount of weapons 
+Thunderbolt is carrying in correlation with Walkers report of him only 
+having one jammed gun. What does this say about local and state 
+perceptions of Thunderbolt?</p>
+<p></p>
+</li>
+<li>
+<p>Was the image staged or natural?</p>
+<p>Definitely a staged image. There was only one eye witness to 
+Thunderbolts death, so the illustrator would have been creating this 
+image from what information they had on the reports by Walker and their 
+own interpretation of those reports.</p>
+</li>
+</ol>
+</div></div>
+				<h3 class="tags">Tags:</h3>
+				<ul class="tags">
+					<li>Death</li>
+					<li>Thunderbolt</li>
+				</ul>
+					</li>
+				</ul>
+				<h3 class="attachments">Attachments</h3>
+				<ul class="attachments">
+					<li id="item_HK8WYCUH">Andrew Cunningham's 1870 Captain Thunderbolt Photographs - Andrew Messner					</li>
+				</ul>
+			</li>
+
+
+			<li id="item_CB6JK5YM" class="item artwork">
+			<h2>Statue of Captain Thunderbolt, gentleman bushranger, Uralla NSW - see below</h2>
+				<table>
+					<tbody><tr>
+						<th>Item Type</th>
+						<td>Artwork</td>
+					</tr>
+					<tr>
+						<th class="artist">Artist</th>
+						<td>Paul Leader - Paulie's Time Off Photography</td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>Uralla celebrates its association with the bushranger known as
+ Captain Thunderbolt (Frederick Ward - 1835-1870) with a large statue of
+ the outlaw on a horse in the main street, a grave in the local cemetery
+ and the Thunderbolt Exhibition in McCrossin's Mill Gallery. Add to this
+ a plaque to Constable Walker, who shot and killed Thunderbolt, and it 
+is clear that much of the local tourism is focussed around this 
+&amp;quot;gentleman&amp;quot; bushranger.
+Ward was born at Windsor in 1835. He was working as a drover and 
+horse-breaker on the Paterson River when he was arrested for receiving 
+75 horses and sentenced to ten years hard labour on 13 August, 1856. He 
+was sent to the gaol on Cockatoo Island in Sydney Harbour and was 
+released from there in 1860 but in 1861 he was captured and sentenced 
+again for horse theft. On 11 September, 1863 he escaped from Cockatoo 
+Island and fled towards Bourke where his wife and two children were 
+living. For the next six and a half years he robbed mail coaches, as 
+well as roadside inns, stores and private homes from Maitland to the 
+Queensland border and west to Bourke. At times he worked with 
+accomplices but, because of the great advantage of his superior skills 
+as a horseman, he often worked alone. By 1870 there was a reward of £550
+ for him.
+His exploits included the attempted robbery of the Merton Mail and 
+Tollhouse at Lochinvar in 1863; the robbery of race patrons and 
+publicans and the Campbell Hill Toll Gate at Rutherford; from 1865 to 
+1870 his spate of robberies (86 in total) in the western district, the 
+northwest slopes and plains the upper Hunter and the country towards the
+ Queensland border are well covered in Court documents. Thunderbolt 
+acquired a reputation as a gentleman. It was said he was always polite, 
+particularly to women, and he never killed anybody. He was also very 
+sensible. He never attempted to rob a place where the police were 
+located and he avoided armed coaches. Consequently his reputation was 
+more connected with his bravery and his skill as a horseman than with 
+his violence.
+Info source:
+&lt;a href="http://www.aussietowns.com.au/town/uralla-nsw" 
+rel="noreferrer 
+nofollow"&gt;www.aussietowns.com.au/town/uralla-nsw&lt;/a&gt;</td>
+					</tr>
+					<tr>
+					<th>Medium</th>
+						<td>photo</td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>2017-12-15</td>
+					</tr>
+					<tr>
+					<th>Library Catalog</th>
+						<td>Flickr</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://www.flickr.com/photos/bypaulleader/45175384235/">https://www.flickr.com/photos/bypaulleader/45175384235/</a></td>
+					</tr>
+					<tr>
+					<th>Accessed</th>
+						<td>6/6/2023, 1:27:54 AM</td>
+					</tr>
+					<tr>
+					<th>Rights</th>
+						<td>All Rights Reserved</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>6/6/2023, 1:27:54 AM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>6/6/2023, 1:27:54 AM</td>
+					</tr>
+				</tbody></table>
+				<h3 class="tags">Tags:</h3>
+				<ul class="tags">
+					<li>bushranger</li>
+					<li>statue</li>
+					<li>australia</li>
+					<li>captainthunderbolt</li>
+					<li>horse</li>
+					<li>newenglandhighway</li>
+					<li>newsouthwales</li>
+					<li>nsw</li>
+					<li>olympus</li>
+					<li>olympusomdem10</li>
+					<li>paulleader</li>
+					<li>thunderbolt</li>
+					<li>thunderboltsway</li>
+					<li>urallansw</li>
+				</ul>
+				<h3 class="notes">Notes:</h3>
+				<ul class="notes">
+					<li id="item_VWGNEHLI">
+<div><div data-schema-version="8"><p><strong>Initial Analysis</strong></p>
+<p>Shows Thunderbolt is a largely celebrated part of the areas local history. Not the product of a hated criminal.</p>
+<p><strong>Structured Analysis</strong></p>
+<ol>
+<li>
+<p>Why was the image taken?</p>
+<p>This photo was taken to commemorate the town of Uralla’s association 
+with Frederick Ward (Captain Thunderbolt). A statue itself was 
+constructed as a bicentenary project (<em>Captain Thunderbolt | Monument Australia</em>, n.d.). </p>
+<p></p>
+</li>
+<li>
+<p>How does the image portray Thunderbolt?</p>
+<p>Captain Thunderbolt is portrayed in a very heroic way. The fact that 
+he is positioned on a horse correlates well with his fame as a expert 
+horsemen and tendency to steal horses. </p>
+<p></p>
+</li>
+<li>
+<p>What is the mood of the image? What feeling does it convey?</p>
+<p>The photos produces a respectful and informative mood and feeling. 
+Probably for the purpose to educate and provide an accurate source for 
+the viewer.</p>
+<p></p>
+</li>
+<li>
+<p>What insights does it provide for the case study?</p>
+<p>Links well to the case study in terms of modern interpretations and 
+representations of Frederick Ward. Highlights how digital technology has
+ been implemented to provide access to local historical stories.</p>
+<p></p>
+</li>
+<li>
+<p>Was the image staged or natural?</p>
+<p>The photo is quite obviously staged in a natural setting. The angle 
+and lighting ensuring that the point of focus (the statue) was 
+photographed in the most optimal way. </p>
+</li>
+</ol>
+<p></p>
+</div></div>
+				<h3 class="tags">Tags:</h3>
+				<ul class="tags">
+					<li>Statue</li>
+					<li>Thunderbolt</li>
+					<li>Uralla</li>
+				</ul>
+					</li>
+				</ul>
+			</li>
+
+
+			<li id="item_A5G9G5JQ" class="item artwork">
+			<h2>‘The Scene of “Thun­der­bolt’s Death”,</h2>
+				<table>
+					<tbody><tr>
+						<th>Item Type</th>
+						<td>Artwork</td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>Illustrated Sydney News</td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>6 July 1870</td>
+					</tr>
+					<tr>
+					<th>Short Title</th>
+						<td>‘The Scene of “Thun­der­bolt’s Death”,</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://andrewmessner.net/wp-content/uploads/2019/04/isn-6-7-70-1-1-768x577.jpg">https://andrewmessner.net/wp-content/uploads/2019/04/isn-6-7-70-1-1-768x577.jpg</a></td>
+					</tr>
+					<tr>
+					<th>Accessed</th>
+						<td>6/6/2023, 1:58:19 AM</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>6/6/2023, 1:58:19 AM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>6/7/2023, 1:07:23 PM</td>
+					</tr>
+				</tbody></table>
+				<h3 class="notes">Notes:</h3>
+				<ul class="notes">
+					<li id="item_JA733EW4">
+<div><div data-schema-version="8"><p><strong>Initial Analysis</strong></p>
+<p>Great visualization of the area Thunderbolt died. For times with slow
+ access to news or none at all it is a great drawing of the scene.</p>
+<p><strong>Structured Analysis</strong></p>
+<ol>
+<li>
+<p>Why was the image taken/created?</p>
+<p>Illustrates to the newspapers audience the scene of Thunderbolts death. </p>
+<p></p>
+</li>
+<li>
+<p>How does the image portray Thunderbolt?</p>
+<p>N/A</p>
+<p></p>
+</li>
+<li>
+<p>What is the mood of the image? What feeling does it convey?</p>
+<p>Almost a tranquil feeling is linked to this image. The scene almost 
+makes you want to go there to enjoy the scenery instead of its relevance
+ to Thunderbolts death.</p>
+<p></p>
+</li>
+<li>
+<p>What insights does it provide for the case study?</p>
+<p>Shows how media at the time provided context of Thunderbolts death to
+ their audience. It is a more realistic drawing of the area, unlike the 
+portrayals of Thunderbolts death which were quite open to the 
+illustrators interpretation of events.</p>
+<p></p>
+</li>
+<li>
+<p>Was the image staged or natural?</p>
+<p>The image seems to be natural, though I am unsure as to what it was based off, either eye witness or a photographic account.</p>
+</li>
+</ol>
+</div></div>
+				<h3 class="tags">Tags:</h3>
+				<ul class="tags">
+					<li>death</li>
+					<li>Thunderbolt</li>
+				</ul>
+					</li>
+				</ul>
+				<h3 class="attachments">Attachments</h3>
+				<ul class="attachments">
+					<li id="item_6JKU6MCQ">Andrew Cunningham's 1870 Captain Thunderbolt Photographs - Andrew Messner					</li>
+				</ul>
+			</li>
+
+
+			<li id="item_XDHGATHL" class="item artwork">
+			<h2>The spot where Thunderbolt was captured, 187- / photographer A. Cunningham, Armidale</h2>
+				<table>
+					<tbody><tr>
+						<th>Item Type</th>
+						<td>Artwork</td>
+					</tr>
+					<tr>
+						<th class="artist">Artist</th>
+						<td>Andrew Cunningham</td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>Essay upon Andrew Cunningham's 1870 photographs relating to 
+the death of bushranger Frederick Ward (Captain Thunderbolt) near 
+Uralla.</td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>1870</td>
+					</tr>
+					<tr>
+					<th>Language</th>
+						<td>en-AU</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://andrewmessner.net/wp-content/uploads/2019/04/Cunningham-1870-KC-SLNSW-768x450.jpg">https://andrewmessner.net/wp-content/uploads/2019/04/Cunningham-1870-KC-SLNSW-768x450.jpg</a></td>
+					</tr>
+					<tr>
+					<th>Accessed</th>
+						<td>6/7/2023, 12:45:39 PM</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>6/7/2023, 12:45:39 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>6/7/2023, 12:47:54 PM</td>
+					</tr>
+				</tbody></table>
+				<h3 class="notes">Notes:</h3>
+				<ul class="notes">
+					<li id="item_INUVEF3R">
+<div><div data-schema-version="8"><p><strong>Initial Analysis</strong></p>
+<p>Gives a historical reenactment of the place where Thunderbolt was 
+killed. Obviously lacks exact historical details though still provides 
+context.</p>
+<p><strong>Structured Analysis</strong></p>
+<ol>
+<li>
+<p>Why was the image taken?</p>
+<p>To record the events of the capture and shooting of Captain Thunderbolt.</p>
+<p></p>
+</li>
+<li>
+<p>How does the image portray Thunderbolt?</p>
+<p>Portrays Thunderbolt not fleeing but fighting back.</p>
+<p></p>
+</li>
+<li>
+<p>What is the mood of the image? What feeling does it convey?</p>
+<p>The image has a standstill quality to it. Like you can feel the tense mood and showdown.</p>
+<p></p>
+</li>
+<li>
+<p>What insights does it provide for the case study?</p>
+<p>Provides the case study with the closest and most accurate visual 
+recording of the events that went down between Walker and Thunderbolt. 
+Without the impact of illustrators perceptions. </p>
+<p></p>
+</li>
+<li>
+<p>Was the image staged or natural?</p>
+<p>The image was staged in order to provide context about the events leading up to Thunderbolts death.</p>
+</li>
+</ol>
+</div></div>
+				<h3 class="tags">Tags:</h3>
+				<ul class="tags">
+					<li>Death</li>
+					<li>Reenactment</li>
+					<li>Thunderbolt</li>
+				</ul>
+					</li>
+				</ul>
+				<h3 class="attachments">Attachments</h3>
+				<ul class="attachments">
+					<li id="item_64W936DU">Snapshot						<div class="note"><div><div data-schema-version="8"><p></p>
+<p></p>
+</div></div>
+					</div>					</li>
+				</ul>
+				<h3 class="related">Related</h3>
+				<ul class="related">
+					<li id="item_RWA8VM2T">Initial Analysis</li>
+				</ul>
+			</li>
+
+
+			<li id="item_4PLTMK98" class="item artwork">
+			<h2>Thunderbolt Rock</h2>
+				<table>
+					<tbody><tr>
+						<th>Item Type</th>
+						<td>Artwork</td>
+					</tr>
+					<tr>
+						<th class="artist">Artist</th>
+						<td>Highranger</td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>Set in hilly granite country on the NSW Northern Tablelands, 
+Uralla is famous for its connection with bushranger Fred Ward, alias 
+Captain Thunderbolt, who was killed near here in 1870.  You can visit 
+Thunderbolt's Grave in the local cemetery,
+
+&lt;a 
+href="https://www.google.com.au/maps/place/Thunderbolts+Rocks/@-30.6976212,151.46815,3a,75y,116.56h,90t/data=!3m4!1e1!3m2!1siIMw1CloXnsj9VKOG_ODVg!2e0!4m2!3m1!1s0x0:0xa9882c9274686729!6m1!1e1"
+ rel="noreferrer 
+nofollow"&gt;www.google.com.au/maps/place/Thunderbolts+Rocks/@-30.6976...&lt;/a&gt;</td>
+					</tr>
+					<tr>
+					<th>Medium</th>
+						<td>photo</td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>1962-01-01</td>
+					</tr>
+					<tr>
+					<th>Library Catalog</th>
+						<td>Flickr</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://www.flickr.com/photos/highranger/15866886025/">https://www.flickr.com/photos/highranger/15866886025/</a></td>
+					</tr>
+					<tr>
+					<th>Accessed</th>
+						<td>6/6/2023, 1:40:54 AM</td>
+					</tr>
+					<tr>
+					<th>Rights</th>
+						<td>All Rights Reserved</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>6/6/2023, 1:40:54 AM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>6/6/2023, 1:40:54 AM</td>
+					</tr>
+				</tbody></table>
+				<h3 class="tags">Tags:</h3>
+				<ul class="tags">
+					<li>uralla</li>
+					<li>thunderbolt</li>
+					<li>england</li>
+					<li>highranger</li>
+					<li>highway</li>
+					<li>new</li>
+					<li>rock</li>
+				</ul>
+				<h3 class="notes">Notes:</h3>
+				<ul class="notes">
+					<li id="item_JUIE2TCQ">
+<div><div data-schema-version="8"><p><strong>Initial Analysis</strong></p>
+<p>Provides imagery to the stories of Thunderbolt ambushing people from 
+this rock. Interesting that he could continually use this place over his
+ bushranging years.</p>
+<p><strong>Structured Analysis</strong></p>
+<ol>
+<li>
+<p>Why was the image taken?</p>
+<p>The photo was taken on by the authors family, apparently one a 
+vacation when they were younger. The once popular ambush point has 
+become a popular tourist destination and is covered in graffiti, so the 
+public both respects and defiles the old monument to the ‘gentleman’ 
+bushranger. </p>
+<p></p>
+</li>
+<li>
+<p>How does the image portray Thunderbolt?</p>
+<p>While not portraying Thunderbolt directly, he is linked to the photo 
+by the clear sign at the forefront of the rock. The fame the Thunderbolt
+ name has procured ever since his death has resulted in his life 
+becoming an attraction for tourism and historical tours.</p>
+<p></p>
+</li>
+<li>
+<p>What is the mood of the image? What feeling does it convey?</p>
+<p>The photo has a very nostalgic mood, with the film imagery conveying 
+the age of the photo. The people in the photo seem care free, walking 
+onto the top of Big Rock and posing for a happy family photo at the once
+ common ambush location.</p>
+<p></p>
+</li>
+<li>
+<p>What insights does it provide for the case study?</p>
+<p>The mood and most likely reasoning behind this photo being taken 
+correlate to the research topics questions and known knowledge. It is 
+known that the public knowledge of Captain Thunderbolt is more 
+romanticised by the representation of him in media and published 
+literature. This photo is evidence of how this interpretation has 
+impacted how the historical events are showcased to the public and what 
+the public do with this.</p>
+<p></p>
+</li>
+<li>
+<p>Was the image staged or natural?</p>
+<p>The photo of Big Rock from the 1960s, was staged in the way a family 
+stages for holiday photos. The intent behind it would have been for 
+memory rather than an primary source or historical image curation. This 
+provides us with a filter of personality to the photo rather than a 
+clean and clinical one.</p>
+</li>
+</ol>
+</div></div>
+				<h3 class="tags">Tags:</h3>
+				<ul class="tags">
+					<li>Ambush</li>
+					<li>Crime</li>
+					<li>Robberies</li>
+					<li>Thunderbolt</li>
+				</ul>
+					</li>
+				</ul>
+			</li>
+
+
+			<li id="item_6QDRA8BW" class="item artwork">
+			<h2>v.6 no.109 - Thunderbolt, 1870 ~ Thunderbolt dead, 1870. Andrew Cunningham</h2>
+				<table>
+					<tbody><tr>
+						<th>Item Type</th>
+						<td>Artwork</td>
+					</tr>
+					<tr>
+						<th class="artist">Artist</th>
+						<td>Andrew Cunningham</td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>Approximately 600 photographs (11 albums) - includes carte-de-visites</td>
+					</tr>
+					<tr>
+					<th>Language</th>
+						<td>en</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://collection.sl.nsw.gov.au/digital/4DlpPqybAwaKj">https://collection.sl.nsw.gov.au/digital/4DlpPqybAwaKj</a></td>
+					</tr>
+					<tr>
+					<th>Accessed</th>
+						<td>6/5/2023, 10:22:48 PM</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>6/5/2023, 10:22:48 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>6/7/2023, 1:38:35 PM</td>
+					</tr>
+				</tbody></table>
+				<h3 class="notes">Notes:</h3>
+				<ul class="notes">
+					<li id="item_JJFHE8XF">
+<div><div data-schema-version="8"><p><strong>Initial Analysis</strong></p>
+<p>A primary source of Thunderbolts body after he was shot by Constable 
+Walker in 1870. It produces a sadden feeling, seeing his body displayed 
+like this with the bullet wounds visible.</p>
+<p><strong>Structured Analysis</strong></p>
+<p>Basically the same picture as the Cadaver of Frederick Ward, only 
+difference is in this one Thunderbolt is not pictured wearing his hat, 
+so the analysis is the same except for some extra unique ideas. Unsure 
+why this is, most likely to capture and image of his head without the 
+hat covering any details. </p>
+<ol>
+<li>
+<ol>
+<li>
+<p>Why was the image taken?</p>
+<p>Andrew Cunningham (Armidales photographer in 1870) was reporting on the events of Frederick Wards death.</p>
+<p></p>
+</li>
+<li>
+<p>How does the image portray Thunderbolt?</p>
+<p>A primary source of Thunderbolt. The photo actually is of Frederick 
+Ward, though in death. He looks almost tired, grimy and rough. The way 
+his eyes are dropped seems like his is sleeping and then as you pan 
+lower the bullet wounds are obvious showing his body was inflicted with 
+serious trauma.</p>
+<p></p>
+</li>
+<li>
+<p>What is the mood of the image? What feeling does it convey?</p>
+<p>A very solemn mood is conveyed. Shocked feelings due to the way his body is displayed and in such a public way.</p>
+<p></p>
+</li>
+<li>
+<p>What insights does it provide for the case study?</p>
+<p>The public apparently flocked to both see Thunderbolts body and 
+newspapers were printing this photo. The public seemed to be in shock 
+and disbelief that this national identity, who seemed larger than life 
+was now dead. Brings some realism to the public instead of the over 
+indulged stories of Thunderbolt that are included in the case study. 
+Though his death is further capitalised on as we see in other historic 
+images.</p>
+<p></p>
+</li>
+<li>
+<p>Was the image staged or natural?</p>
+<p>The photo is both staged and natural. Staged as Thunderbolt obviously
+ was propped up and put on display. Natural in that the photo is of a 
+real individual.</p>
+</li>
+</ol>
+</li>
+</ol>
+</div></div>
+				<h3 class="tags">Tags:</h3>
+				<ul class="tags">
+					<li>death</li>
+					<li>Thunderbolt</li>
+				</ul>
+					</li>
+				</ul>
+				<h3 class="attachments">Attachments</h3>
+				<ul class="attachments">
+					<li id="item_VG3KTUQW">Snapshot					</li>
+				</ul>
+			</li>
+
+
+			<li id="item_B7UPJAC5" class="item artwork">
+			<h2>Were bushrangers villains or heroes? | MHNSW</h2>
+				<table>
+					<tbody><tr>
+						<th>Item Type</th>
+						<td>Artwork</td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>During the colonial period bushrangers committed serious crimes. However, to some people they might have seemed impressive.</td>
+					</tr>
+					<tr>
+					<th>Language</th>
+						<td>en</td>
+					</tr>
+					<tr>
+					<th>Short Title</th>
+						<td>Were bushrangers villains or heroes?</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://images.slm.com.au/fotoweb/embed/2022/12/56888b115d7a4d86b3b858dcea67d76e.jpg">https://images.slm.com.au/fotoweb/embed/2022/12/56888b115d7a4d86b3b858dcea67d76e.jpg</a></td>
+					</tr>
+					<tr>
+					<th>Accessed</th>
+						<td>6/6/2023, 1:29:29 AM</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>6/6/2023, 1:29:29 AM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>6/7/2023, 11:50:40 PM</td>
+					</tr>
+				</tbody></table>
+				<h3 class="notes">Notes:</h3>
+				<ul class="notes">
+					<li id="item_M897JV6B">
+<div><div data-schema-version="8"><p><strong>Initial Analysis</strong></p>
+<p>Record of Thunderbolts death gives historical primary evidence about 
+the events and the outcome of it. Adds to the background and information
+ that is known about Thunderbolt.</p>
+<p></p>
+<p><strong>Structured Analysis</strong></p>
+<ol>
+<li>
+<p>Why was the image taken?</p>
+<p>For record purposes, contains no people or geographical features.</p>
+<p></p>
+</li>
+<li>
+<p>How does the image portray Thunderbolt?</p>
+<p>N/A</p>
+<p></p>
+</li>
+<li>
+<p>What is the mood of the image? What feeling does it convey?</p>
+<p>N/A</p>
+</li>
+<li>
+<p>What insights does it provide for the case study?</p>
+<p>Provides a image of a historical document with recorded evidence of 
+Thunderbolts death, where it happened, which law officer was present and
+ how. </p>
+<p></p>
+</li>
+<li>
+<p>Was the image staged or natural?</p>
+<p>N/A</p>
+</li>
+</ol>
+</div></div>
+				<h3 class="tags">Tags:</h3>
+				<ul class="tags">
+					<li>death</li>
+					<li>Thunderbolt</li>
+				</ul>
+					</li>
+				</ul>
+				<h3 class="attachments">Attachments</h3>
+				<ul class="attachments">
+					<li id="item_7WJILSTN">Snapshot					</li>
+				</ul>
+			</li>
+
+		</ul>
+	
+</body></html>

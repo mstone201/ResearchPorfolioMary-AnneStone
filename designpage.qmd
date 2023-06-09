@@ -1,0 +1,68 @@
+---
+title: "Research Design Page"
+author: "Mary-Anne Stone"
+format: html
+editor: visual
+---
+
+# [Introduction]{.smallcaps}
+
+Digital humanities have contributed increasingly over the last few decades in developing how research is produced, preserved and presented. The case study of this research project seeks to discover how the digital humanities have contributed to the creation and spread of Frederick Wards (Captain Thunderbolt) endeavors and criminal activities.
+
+The question this research portfolio is specifically addressing is:
+
+***What is the contribution of research in the digital humanities to the production and dissemination of public 'stories' or interpretations about aspects of local community history and cultural heritage?***
+
+***Drawing on a series of related case studies, illustrate how these tools and methods can aid historical scholarship.***
+
+The case study focuses on the criminal activity of renowned Australian bushranger *Captain Thunderbolt*. In order to understand the contribution digital tools and techniques have on the interpretations and dissemination of local history and heritage technological programs such as RStudio, excel (ADD MORE) have been implemented to create a data set that can be analysed and discussed. This data was extracted from online timelines, newspaper articles and published research. In order to present these findings, RStudio, QGIS maps, images from online archives and mark down documents have been used to produce a clear portfolio for viewing.
+
+# [Background]{.smallcaps}
+
+In the state of New South Wales (NSW), Australia, renowned bushranger *Captain Thunderbolt* is a local legend to many small and large towns throughout. Frederick Ward was born in 1835 in northern NSW and spent his early teens working on cattle stations as a hand, horse breaker and drover (*Meet Bushranger "Captain Thunderbolt" \| Harbour Trust*, 2021)
+
+[![**Fig.1.** Gazetter map of New South Wales by Cartographer John Noone in 1866 from the National Library of Australia (Noone, 1866).](images/Gazetteer%20map%20of%20NSW%20by%20surveyor%20J.Noone%201866-03-01.png){fig-align="center"}](http://nla.gov.au/nla.obj-231327228)
+
+Ward begun his criminal career by stealing horses at the age of twenty, resulting in his imprisonment in the famous Cockatoo Island gaol in Sydney Harbour (Seal, 1996). After failing to meet his early release conditions, Thunderbolt was sent back to the Island to complete his original sentence and this is when he completed his famous escape in 1863 (*Meet Bushranger "Captain Thunderbolt" \| Harbour Trust*, 2021).
+
+[![**Fig.2.** Cockatoo Island was a convict gaol from 1839 to 1869 and is located on the Sydney Harbour. It is inscribed on the UNESCO World Heritage List. (The History of Cockatoo Island \| Cockatoo Island, n.d.).](https://images.squarespace-cdn.com/content/v1/5b3997467e3c3a94b303bbd0/1533017556682-FIYBE0UZITU79C0ZA8O4/Cockatoo+Island+aerial+Credit+Mark+Merton.jpg?format=2500w){fig-align="center"}](https://www.australianconvictsites.org.au/cockatooisland)
+
+After his escape from Cockatoo Island (figure 2), Ward was known for roaming from the Hunter Valley area to the Queensland border, robbing travellers, mailmen, stores, inns and stations (*Meet Bushranger "Captain Thunderbolt" \| Harbour Trust*, 2021;"Bushrangers of", 2023). Ward continued bushranging until his death on the 25th of May 1870 after being pursued by Uralla police and shot by Constable Alexander Walker (*Meet Bushranger "Captain Thunderbolt" \| Harbour Trust*, 2021).
+
+Despite the many criminal acts committed by Thunderbolt, he was often herald as a *'robin hood'* type of character, with many sources romanticising his actions and escapes from law enforcement.
+
+# [Research Focus]{.smallcaps}
+
+This research project is focusing on how digital humanities have portrayed Frederick Ward as *Captain Thunderbolt*. Comparing historical accounts and images from contemporary newspapers articles and government reports with later cinematic and written illustrations will convey The issues of delayed access to quick news, the limitations in eye witness accounts after certain periods of time and why Wards crimes were viewed increasingly as heroic rather than criminal will be explored using modern digital research techniques that address the projects wider question.
+
+# [Methods]{.smallcaps} {style="color: black"}
+
+### [Task 1](Task1.qmd): [Harvesting Data from the Web]{.smallcaps}
+
+Collected historical information from Carol Baxter's website which provided a complete timeline of Frederick Wards criminal acts. Saved sources in a Zotero folder under HINQ302. 83 data enteries manually inputted into excel, with information regarding the date, location, victims, bushrangers involved, law enforcement involved, crime committed, penalties (if there were any given), what was stolen, and the news papers that reported the act.
+
+### [Task 2](Task2.qmd): [Historical Image Analysis]{.smallcaps}
+
+The web browser Google Chrome was used to curate a collection of historical images relevant to Frederick Ward aka Captain Thunderbolt. Each image was stored in a Zotero file, with annotations and tags on each. These were exported into a report on a Quarto project which were then formatted into a cohesive narrative and analytical display
+
+### [Task 3](Task3.qmd): [Thematic Coding]{.smallcaps}
+
+Thematic code created through Taguette program from PDFs stored on Zotero. These PDFs were converted to text files through the Ant File converter, then uploaded individually to Taguette after some manual editing for deeper analysis of themes through highlight codes/tags.
+
+### [Task 4](Task4.qmd): [Mapping Your Data]{.smallcaps}
+
+Digital maps created using QGIS program that illustrate the area and details of focus. Further details regarding the sources of map layers is found through the link under the Task 4.
+
+# [References]{.smallcaps} {style="color: black"}
+
+Seal, G. (1996), Outlaw legend, a cultural tradition in Britain, America and Au
+
+SHIRLEY, G. (n.d.). Captain Thunderbolt \| National Film and Sound Archive of Australia. Retrieved June 6, 2023, from https://www.nfsa.gov.au/latest/captain-thunderbolt-and-the-search-for-lost-films
+
+Cambridge University Press. The history of Cockatoo Island \| Cockatoo Island. (n.d.). Retrieved June 6, 2023, from https://www.cockatooisland.gov.au
+
+## [Image References]{.smallcaps}
+
+Cockatoo Island. (n.d.). Retrieved June 6, 2023, from https://www.australianconvictsites.org.au/cockatooisland
+
+Noone, J. (1866). Gazetteer map of New South Wales \[cartographic material\]. Retrieved June 6, 2023, from https://nla.gov.au/nla.obj-231327228

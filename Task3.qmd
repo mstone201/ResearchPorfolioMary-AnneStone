@@ -1,0 +1,83 @@
+---
+title: "Task 3: Thematic Analysis"
+---
+
+## [Introduction]{.smallcaps}
+
+A part of understanding how research in the digital humanities contribute to the interpretations of local community history, is through utilising digital technologies that help to provide insights into complex unstructured sources. Task 3 of this research project, involves thematic analysis of a collection of primary sources relative to the particular case study. Certain themes or key factors are significant in ascertaining different answers that link to the case study questions.
+
+## [Aim]{.smallcaps}
+
+The aim of this thematic analysis of sources correlating to the exploits and events surrounding the life and actions of Captain Thunderbolt, is to find patterns within the mined data that provide meaningful insight into the research queries of this project (Drucker, 2021).
+
+## [Method]{.smallcaps}
+
+The first step was to collect a group of primary sources that reference Frederick Ward or Captain Thunderbolt directly. The goal was to uncover different perceptions of Thunderbolt that were given by different government platforms, media and individuals. The online archive Trove, provided a great source for these documents. All were from newspapers or gazettes, with dates ranging from the mid 1800s to the mid 1900s to provide a variety of interpretations and historic accounts. On Zotero a folder was created in order to keep the data tidy under the heading **Task 3**. The PDFs of the files were attached and the metadata checked to ensure it was correct, including the correct URL. Next a Zotero RDF was created and saved into the working directory of this Portofolio. This [RDF](RDFtask3.rdf) was then run through the Ant File Converter to produce a corpus of full text source material in TXT file format, which were then saved in a separate folder under the same directory.
+
+These text files were then uploaded individually onto the program Taguette. The PDFs weren't used as Taguette seemed to have a problem with correctly uploading the newspaper articles from the online archive. This meant that the text files were directly uploaded to Taguette after some manually editing of the script due to the programs difficulty in reading aged newspaper scans. Using the open coding approach, a list of codes were created that applied to a range of themes. These themes were linked through tags that were exported onto a revised CSV file for easier access when analysing the results and discussing them further in this report.
+
+## [Results]{.smallcaps}
+
+The revised list of highlights from Taguette, showed themes that were the most prominent throughout the sources. The majority of articles held descriptions of interactions between Thunderbolt and law enforcement. These descriptions tagged common factors such as items that were stolen (tag: Item stolen), individual police individuals (tag: Police response, Law enforcement), the locations (tag: Locations) and the newspapers details (tag: Newspapers). These themes provide contextual information regarding the characteristics of Thunderbolts crimes e.g. *'...takes another, a fine racehorse...'*("CAPTURE OF WARD, THE BUSHRANGER, AND PURSUIT OF THUNDERBOLT.," 1866). Figure 1 is an example of one of the newspaper articles containing similar themes that really contextualise the actions of Thunderbolt, particularly his location, pursuit by police, items he had stolen and the result of the chase.
+
+[![**Fig.1.** Newspaper Article describing events of Thunderbolts run in with police near Manilla NSW. Highlights ethuastic language, location, items stolen and the fact that he escaped (CAPTAIN THUNDERBOLT., 1867).](images/Captain%20Thunderbolt%20newspaper.png){fig-align="center" width="535"}](http://nla.gov.au/nla.news-article18730111)
+
+The codes of prominence within this analysis are shown in Figure 2. What really stands out are the codes that describe interactions with or about Thunderbolt in non-negative manners. They were tagged under descriptions such as: *charming, positive mentioning, romanticised, suggestive language and described as not criminals* (Fig.2.). Within the more modern sources from the 1950s, Thunderbolt is described as a *'...daring and chivalrous bush ranger...'* with a *'...somewhat chatty...'* composure (*The Real Captain Thunderbolt*, 1951). Other accounts from the contemporary period positively describe Thunderbolts skills, allocating him praise for being able to *'...mount his horse well, and ride like the wind...'* ("DOINGS OF THE BUSHRANGERS.," 1866). These codes are contrasted by the themes that negatively describe Thunderbolt found under highlights such as: *negative response to bushrangers and boasting of police services* (Fig.2.) Newspapers would comment on the hope for Thunderbolts capture (*'...some hope is therefore entertained of their capture shortly...'*), or describe the bushranger as a '*...fugutive...'* or *'...villian...'* ("THUNDERBOLT AGAIN.," 1867; "CAPT. THUNDERBOLT, ALIAS WARD, THE BUSHRANGER.," 1866; "CAPTURE OF WARD, THE BUSHRANGER, AND PURSUIT OF THUNDERBOLT.," 1866).
+
+![**Fig.2.** Graph highlighting the most relevant reoccurring themes from the Taguette dataset](images/Reoccuring%20Themes%20T3.png){fig-align="center" width="582"}
+
+[![**Fig.3.** Newspaper article from the Armidale Express and New England General Advertiser writing of Captian Thunderbolts exploits, which were apparently common as the writer appears exasperated and hopeful of his capture.](images/Thunderbolt%20again%20fig.3.png){fig-align="center" width="400"}](http://nla.gov.au/nla.news-article187931551)
+
+## [Discussion]{.smallcaps}
+
+The coded text excerpts highlight different insights about the different perspectives of Thunderbolt. Historical accounts say that the positive reception of Thunderbolt at the time was due to his charming and chivalrous nature when robbing people. But this itself is a juxtaposing statement, how can someone remain in favour of the individual who is stealing from them? Human nature deems that this should receive a negative response as the government and colonial statement portray with notices of rewards for the apprehension Thunderbolt ("ONE HUNDRED POUNDS REWARD.," 1865; "Colonial Summary," 1866). The consist mention of previous crimes or the scale of them seems to serve to remind the public that this bushranger was still a criminal and not some misguided example of an Australia 'Robin Hood' (*The Real Captain Thunderbolt*, 1951). By increasing the reward, the government was attempting to persuade the public into abandoning their romanticised notions of Thunderbolt and aiding in his capture. Further analysis of the codes revealed the range of newspaper platforms that actually wrote about Thunderbolts exploits (Figure 3).
+
+![**Fig.4.** Codes highlighting the Newspaper names which reported on Thunderbolt](images/Number%20of%20Newspapers.png){fig-align="center" width="741"}
+
+From the results from this thematic analysis, a new and broader understanding of the size of Thunderbolts influence and the diversity of public interpretations has been achieved. This ties in with the aim of the research into this case study to discover and analyse how local historical documents have illustrated Thunderbolt through both positive and negative lens depending on the context of the publisher/author.
+
+## [Appendix]{.smallcaps}
+
+CAPTAIN THUNDERBOLT. (1867, February 9). http://nla.gov.au/nla.news-article18730111
+
+CAPT. THUNDERBOLT, ALIAS WARD, THE BUSHRANGER. (1866, March 29). Maitland Mercury and Hunter River General Advertiser. http://nla.gov.au/nla.news-article18712031
+
+CAPTURE OF WARD, THE BUSHRANGER, AND PURSUIT OF THUNDERBOLT. (1866, April 12). Brisbane Courier. http://nla.gov.au/nla.news-article1265580
+
+Colonial Summary. (1866, April 7). Wagga Wagga Express and Murrumbidgee District Advertiser. http://nla.gov.au/nla.news-article105998167
+
+DOINGS OF THE BUSHRANGERS. (1866, April 28). Queenslander. http://nla.gov.au/nla.news-article20307313
+
+Drucker, J. (2021). The Digital Humanities Coursebook: An Introduction to Digital Methods for Research and Scholarship. Routledge. https://doi.org/10.4324/9781003106531
+
+ONE HUNDRED POUNDS REWARD. (1865, December 27). New South Wales Government Gazette. http://nla.gov.au/nla.news-article225255090
+
+The Real Captain Thunderbolt. (1951, December 15). http://nla.gov.au/nla.news-article140335028
+
+THUNDERBOLT AGAIN. (1867, June 1). Armidale Express and New England General Advertiser. http://nla.gov.au/nla.news-article187931551
+
+## [Taguette [Highlights](taguettetask3.csv){style="color: black"}]{.smallcaps}
+
+Taguette highlights: Boasting of police services. (n.d.).
+
+Taguette highlights: Captain Thunderbolt. (n.d.).
+
+Taguette highlights: Charming. (n.d.).
+
+Taguette highlights: Described as not criminals. (n.d.).
+
+Taguette highlights: Eye witness account. (n.d.).
+
+Taguette highlights: Modern Interpretation. (n.d.).
+
+Taguette highlights: Negative response to Bushrangers. (n.d.).
+
+Taguette highlights: Negative response to law enforcement. (n.d.).
+
+Taguette highlights: No harm to victims. (n.d.).
+
+Taguette highlights: Positive mentioning. (n.d.).
+
+Taguette highlights: Romanticised. (n.d.).
+
+Taguette highlights: Textual Techniques. (n.d.).

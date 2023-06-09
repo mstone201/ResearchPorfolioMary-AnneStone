@@ -1,0 +1,30 @@
+---
+title: "Home Page"
+author: "Mary-Anne Stone"
+format: html
+editor: visual
+---
+
+# [HINQ302 Research Portfolio]{.smallcaps}
+
+# [The History of Captain Thunderbolt: Detailed Study of his Crimes and the Public's Reception of Them]{.smallcaps}
+
+[![](1e4060837ba7bde309c14522b0878384.jfif){fig-align="center"}](https://live-production.wcms.abc-cdn.net.au/1e4060837ba7bde309c14522b0878384?impolicy=wcms_crop_resize&cropH=383&cropW=680&xPos=0&yPos=110&width=862&height=485)
+
+*What is the contribution of research in the digital humanities to the production and dissemination of public 'stories' or interpretations about aspects of local community history and cultural heritage?*
+
+*Drawing on a series of related case studies, illustrate how these tools and methods can aid historical scholarship.*
+
+-   **Research Design**
+
+-   **Task 01**
+
+-   **Task 02**
+
+-   **Task 03**
+
+-   **Task 04**
+
+-   **Discussion**
+
+-   **References**

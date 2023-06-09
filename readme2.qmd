@@ -1,0 +1,65 @@
+---
+title: "Readme File Task2"
+author: "Mary-Anne Stone"
+date: 06/05/2023
+---
+
+**Overview** The data set is a collection of images related to the research portfolio topic of Captain Thunderbolt. The data is reflecting background illustrations of Thunderbolts bushranging years, significant figures and locations, an modern remakes of the story through media platforms and film. Focus is the romanticised version of Thunderbolt and how media portrayed him as a social bandit.
+
+**Data Sources** Used image sources, mainly accessed through the Google chrome platform.
+
+-   Key words: Captain Thunderbolt, Romanticised, Reenactment, Bush ranger, Frederick Ward, Film
+
+-   Key repositories: Trove, Google Chrome, NSW state library, Museums of History New South Wales, Flickr.
+
+**Data cleaning and processing** Used the Google Chrome search engine to source historical images. Saved images into a directory under HINQ302-Final Assessment --\> Task2. The image sources were saved under a Zotero folder HINQ302\--\> Digital Portfolio --\> Task2.
+
+**Variables and definitions** Used different tags to identify different images.
+
+-   Tags: Death, Grave, Wife, Thunderbolt, Police, Uralla, NSW, Reenactment, Statue, Theatre
+
+**Limitations** Year research is based in makes it harder to have a large source of historical images. Images if they were taken are of generic things, people, places and only in a formal setting.
+
+**References**
+
+*Albums of photographs of actors, actresses, singers, music hall artists and others, 1854-ca. 1910*. (n.d.). Retrieved June 5, 2023, from <https://collection.sl.nsw.gov.au/record/93QVj571>
+
+*Cadaver of Frederick Ward, the bushranger Captain Thunderbolt, ca. May-June 1870 / photographer A. Cunningham, Armidale*. (n.d.). Retrieved June 5, 2023, from <https://collection.sl.nsw.gov.au/record/1Jkm40oY>
+
+*CAPTAIN THUNDERBOLT.* (1867a). <http://nla.gov.au/nla.news-article150646827>
+
+*CAPTAIN THUNDERBOLT.* (1867b). <http://nla.gov.au/nla.news-article18730111>
+
+*Captain Thunderbolt (1955)*. (n.d.). Retrieved June 5, 2023, from <https://www.imdb.com/title/tt0045606/mediaviewer/rm2330317569/?ref_=tt_ov_i>
+
+*Captain Thunderbolt (1955)*. (1955). <https://www.imdb.com/title/tt0045606/mediaviewer/rm2330317569/?ref_=tt_ov_i>
+
+*Captain Thunderbolt rides again*. (1988). <http://nla.gov.au/nla.news-article110612574>
+
+*'Capture of "Thun­der­bolt."* (1870). <https://andrewmessner.net/2018/10/01/andrew-cunninghams-1870-thunderbolt-photographs/>
+
+*'Capture of Thun­der­bolt' reenactment*. (n.d.). Retrieved June 5, 2023, from <https://andrewmessner.net/2018/10/01/andrew-cunninghams-1870-thunderbolt-photographs/>
+
+*Constable Alexander Binning Walker, who killed the bushranger Thunderbolt, ca. May-June 1870 / photographer A. Cunningham, Armidale*. (n.d.). Retrieved June 5, 2023, from <https://collection.sl.nsw.gov.au/record/1Drm3v59>
+
+Cunningham, A. (1870). *'The Spot Where Thun­der­bolt Was Captured.'* State Library of New South Wales. <https://andrewmessner.net/wp-content/uploads/2019/04/Cunningham-1870-KC-SLNSW.jpg>
+
+*Death of Thunderbolt*. (1870). <https://andrewmessner.net/wp-content/uploads/2019/04/atcj-4-6-70-p24-ward-illustration.jpg>
+
+*'Death of Thun­der­bolt, the bush­ranger.'* (1870). <https://andrewmessner.net/2018/10/01/andrew-cunninghams-1870-thunderbolt-photographs/>
+
+Francis, E. (1951). *Captain Thunderbolt \[film production?\], 8 May 1951 / photographs by Eric Francis*. <https://collection.sl.nsw.gov.au/record/n5lX6Ja9#viewer>
+
+*Frederick Ward, alias Thunderbolt*. (1870). <https://andrewmessner.net/2018/10/01/andrew-cunninghams-1870-thunderbolt-photographs/>
+
+*List of Offenders known as Bushrangers killed or wounded in the colony of New South Wales from March 1862 to 7 June 1870*. (1862). NSW State Records. <https://mhnsw.au/stories/general/were-bushrangers-villains-or-heroes/>
+
+*Mary Ann Buggs*. (n.d.). Retrieved June 5, 2023, from <https://www.rahs.org.au/mary-ann-bugg-1834-1905/>
+
+*Statue of Captain Thunderbolt, gentleman bushranger, Uralla NSW - see below---Trove*. (n.d.). Retrieved June 5, 2023, from <https://trove.nla.gov.au/work/234556003?keyword=Captain%20Thunderbolt>
+
+*The Real Captain Thunderbolt*. (1951). <http://nla.gov.au/nla.news-article140335028>
+
+*'The Scene of "Thun­der­bolt's Death."* (1870). <https://andrewmessner.net/2018/10/01/andrew-cunninghams-1870-thunderbolt-photographs/>
+
+*Thunderbolt Rock---Trove*. (1962). <https://trove.nla.gov.au/work/236937053?keyword=Thunderbolt>

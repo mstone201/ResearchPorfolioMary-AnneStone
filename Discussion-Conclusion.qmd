@@ -1,0 +1,28 @@
+---
+title: "Discussion/Conclusion"
+author: "Mary-Anne Stone"
+format: html
+editor: visual
+---
+
+Digital humanities is a growing characteristic of scholarship that is increasingly being used to produce materials that adhere to the FAIR principles (Fair, Accessible, Inter-operable, and Re-usable) (FAIR Principles for Research Data Management \| ARDC, n.d.). This research project endeavored to follow these principles in its findings regarding the interpretation of Frederick Ward (Captain Thunderbolt). The tasks of this portfolio followed two concepts. One was the statistical and descriptive data regarding Thunderbolt's crimes, their occurrence, location, and victims. The other was to uncover overarching themes related to historical documents' interpretations and mentions of Thunderbolt. Digital tools ensure that the process of absorption can be a simpler process for readers without having to understand large amounts of background and historical data. Within this project, these two conceptual approaches built a portfolio that included contextual evidence that could be visualized to the readers through digital graphs, images, and GIS maps, and interpretative analysis that is conveyed through descriptive discussions.
+
+This research has uncovered links between Thunderbolt's crimes and their later interpretation that were produced using detailed digital technologies fairly. The process of studying historical data has been simplified, ensuring an increase in time efficiency and the amount of data that can be examined. Storing this information on web-accessible sites ensures geographical access is no longer a problem, limited only to those with limited internet opportunities. The data created can be reused for future studies, allowing for multiple interpretations and research endeavors to be completed, creating a larger pool of knowledge from a variety of sources. This task illustrates how digital tools and methods can help the historical research industry instead of being a hindrance to past concepts of thinking. The digitization of historical research has revolutionized the way information is stored, received, analyzed, and reviewed.
+
+## [Case Study Conclusion]{.smallcaps}
+
+To this day, Frederick Ward/Captain Thunderbolt is regarded as a charismatic character in Australian history rather than a feared criminal because of the way media and interpretations of the time shaped his actions for certain social effects. Modern perceptions, such as the book *'Captain Thunderbolt and his Lady...'* by Carol Baxter (2011), portray Ward as a gentleman bushranger (Bushranger Captain Thunderbolt Frederick Ward and Mary Ann Bugg Blurb, 2011). The Cecil Holmes 1953 film *'Captain Thunderbolt'* displays a romanticized and dramatic interpretation of Ward's life and criminal activity. The heroic characterization of Captain Thunderbolt addresses contemporary issues of colonial aristocracy, racism, xenophobia, and the unrestricted brutality of power (SHIRLEY, n.d.). A source of inspiration for generating questions in this research project was the term 'social bandits' (Pillai, 1974). This concept of social bandits correlates with the majority of the public's illustration of Ward's life (Pillai, 1974). Govinda Pillai provides a definition of this term as:
+
+*"...peasant outlaws whom the lord and state regard as criminals but who remain within peasant society and are considered by their people as heroes, as champions; as avengers, fighters for justice, perhaps even leaders of liberation, and in any case as men to be admired, helped, and supported..."* (Pillai, 1974).
+
+This concept accurately describes the ways in which Frederick Ward was described and perceived by the majority of the public, hailing him as a sort of Robin Hood character in Australian history,
+
+![**Fig.1.** Highlights the increase in newspapers mentioning the term 'bushrangers', interestingly it correlates with the period of Thunderbolts main bushranging years ("Were Bushrangers Villains or Heroes?", 2023.)](images/Occurence%20of%20bushranger%20in%20NSW%20newspapers.jpg){alt="(\"Were Bushrangers Villains or Heroes?\", 2023.)" fig-align="center" width="514"}
+
+## [References]{.smallcaps}
+
+Bushranger captain thunderbolt frederick ward and mary ann bugg home page. (n.d.). Bushranger Thunderbolt and Mary Ann Bugg. Retrieved June 6, 2023, from http://thunderboltbushranger.com.au/
+
+SHIRLEY, G. (n.d.). Captain Thunderbolt \| National Film and Sound Archive of Australia. Retrieved June 6, 2023, from https://www.nfsa.gov.au/latest/captain-thunderbolt-and-the-search-for-lost-films
+
+Were bushrangers villains or heroes? \| MHNSW. (n.d.). Retrieved June 1, 2023, from https://images.slm.com.au/fotoweb/embed/2022/12/1a4f535647c640c583c81eb51f72901b.jpg

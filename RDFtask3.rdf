@@ -1,0 +1,1019 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/">
+    <bib:Article rdf:about="http://nla.gov.au/nla.news-article18730111">
+        <z:itemType>newspaperArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Newspaper></bib:Newspaper>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_1032"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>bushrangers</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Captain Thunderbolt</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Frederick Ward</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>hold-ups</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>mail coaches</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Thunderbolt</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>CAPTAIN THUNDERBOLT.</dc:title>
+        <dcterms:abstract>The police met Thunderbolt near Manilla, yesterday, and chased him for six miles. They recovered four hundred pounds which he had taken from the mail. Thunderbolt escaped! ...</dcterms:abstract>
+        <dc:date>9 Feb 1867</dc:date>
+        <z:libraryCatalog>Trove</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://nla.gov.au/nla.news-article18730111</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-05 07:49:24</dcterms:dateSubmitted>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_1032">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/1032/1867 - CAPTAIN THUNDERBOLT..pdf"/>
+        <dc:title>Trove newspaper PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://trove.nla.gov.au/newspaper/rendition/nla.news-article18730111.3.pdf?followup=4219292f3c287dec01188c7b568778bd</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-05 07:49:25</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://nla.gov.au/nla.news-article150646827">
+        <z:itemType>newspaperArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Newspaper></bib:Newspaper>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_1036"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>bushrangers</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Thunderbolt</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>CAPTAIN THUNDERBOLT.</dc:title>
+        <dcterms:abstract>James N. Roper, of the Bonehsm Hotel, Sovereign River, gives the following account (in a letter to the Annidafe Express) of the doings of Thunderbolt in that locality:— ...</dcterms:abstract>
+        <dc:date>7 Jun 1867</dc:date>
+        <z:libraryCatalog>Trove</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://nla.gov.au/nla.news-article150646827</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-05 07:51:41</dcterms:dateSubmitted>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_1036">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/1036/1867 - CAPTAIN THUNDERBOLT..pdf"/>
+        <dc:title>Trove newspaper PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://trove.nla.gov.au/newspaper/rendition/nla.news-article150646827.3.pdf?followup=bb383a58d7382138358efec6fcdb3d8d</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-05 07:51:43</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://nla.gov.au/nla.news-article110612574">
+        <z:itemType>newspaperArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Newspaper></bib:Newspaper>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_1040"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>bushrangers</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>entertainment</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Mary Ann Bugg</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>music</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>musicals</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>opera</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>theatre</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Thunderbolt</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Captain Thunderbolt rides again</dc:title>
+        <dcterms:abstract>A &quot;MUSIC-DRAMA&quot; about the relationship between a singing bushranger and his opera-fancying girlfriend opens ...</dcterms:abstract>
+        <dc:date>10 Nov 1988</dc:date>
+        <z:libraryCatalog>Trove</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://nla.gov.au/nla.news-article110612574</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-05 07:52:30</dcterms:dateSubmitted>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_1040">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/1040/1988 - Captain Thunderbolt rides again.pdf"/>
+        <dc:title>Trove newspaper PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://trove.nla.gov.au/newspaper/rendition/nla.news-article110612574.3.pdf?followup=5c2a20534f83235014ff7d1af037daa7</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-05 07:52:31</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://nla.gov.au/nla.news-article140335028">
+        <z:itemType>newspaperArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Newspaper></bib:Newspaper>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_1044"/>
+        <dc:title>The Real Captain Thunderbolt</dc:title>
+        <dcterms:abstract>FEW figures in Upper Hunter-New England history have become so legendary as ...</dcterms:abstract>
+        <dc:date>15 Dec 1951</dc:date>
+        <z:libraryCatalog>Trove</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://nla.gov.au/nla.news-article140335028</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-05 07:53:04</dcterms:dateSubmitted>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_1044">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/1044/1951 - The Real Captain Thunderbolt.pdf"/>
+        <dc:title>Trove newspaper PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://trove.nla.gov.au/newspaper/rendition/nla.news-article140335028.3.pdf?followup=007b35eec47a7fb34a0f353b976265f3</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-05 07:53:05</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://nla.gov.au/nla.news-article28419906">
+        <z:itemType>newspaperArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Newspaper>
+               <dc:title>Sydney Morning Herald</dc:title>
+            </bib:Newspaper>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>New South Wales</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <link:link rdf:resource="#item_1047"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Alexander B Walker</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>anaesthetics</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>bushrangers</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>court cases</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>death</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>elections</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Frederick Ward</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>gold mining</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>police shootings</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Thomas Draper</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Thunderbolt</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Uralla</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Wagga Wagga</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>THE DEATH OF THE [?] WARD, ALIAS THUNDERBOLT.</dc:title>
+        <dcterms:abstract>By the courtesy of the Inspector-General of Police, we are enabled to publish the following telegram from Armidale, giving an account of the inquest held upon the body of the cutlaw, and further information as to ...</dcterms:abstract>
+        <dc:date>28 May 1870</dc:date>
+        <z:shortTitle>THE DEATH OF THE [?</z:shortTitle>
+        <z:libraryCatalog>Trove</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://nla.gov.au/nla.news-article28419906</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-07 14:07:52</dcterms:dateSubmitted>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_1047">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/1047/1870 - THE DEATH OF THE [] WARD, ALIAS THUNDERBOLT..pdf"/>
+        <dc:title>Trove newspaper PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://trove.nla.gov.au/newspaper/rendition/nla.news-article28419906.3.pdf?followup=8ee24171d36585986ba8b4cfb4fc0a53</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-07 14:07:55</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://nla.gov.au/nla.news-article100828126">
+        <z:itemType>newspaperArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Newspaper>
+               <dc:title>Goulburn Herald and Chronicle</dc:title>
+            </bib:Newspaper>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>New South Wales</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <link:link rdf:resource="#item_1050"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Bushrangers</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Captain Thunderbolt</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Frederick Ward</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>ENCOUNTER WITH CAPTAIN THUNDERBOLT AND HIS GANG.</dc:title>
+        <dcterms:abstract>In our last issue we gave the particulars of the robbery of the Warialda mail near Manilla, by this newly-fledged gang of bushrangers, and we now furnish an account of their proceedings since that ...</dcterms:abstract>
+        <dc:date>6 May 1865</dc:date>
+        <z:libraryCatalog>Trove</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://nla.gov.au/nla.news-article100828126</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-07 14:15:05</dcterms:dateSubmitted>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_1050">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/1050/1865 - ENCOUNTER WITH CAPTAIN THUNDERBOLT AND HIS GANG..pdf"/>
+        <dc:title>Trove newspaper PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://trove.nla.gov.au/newspaper/rendition/nla.news-article100828126.3.pdf?followup=f0b5e73d823ffa41b0a3d3ddf99dd298</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-07 14:15:07</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://nla.gov.au/nla.news-article135813611">
+        <z:itemType>newspaperArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Newspaper><dc:title>Illawarra Mercury</dc:title></bib:Newspaper>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                        <vcard:locality>Wollongong, New South Wales</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <link:link rdf:resource="#item_1053"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Bushrangers</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Captain Thunderbolt</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Frederick Ward</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Encounter with Bushrangers.</dc:title>
+        <dcterms:abstract>In our last issue we gave the particulars of the robbery of the Warialda mail near Manilla by this newly fledged gang of bushrangers, and we now furnish an account of their proceedings since that time. ...</dcterms:abstract>
+        <dc:date>5 May 1865</dc:date>
+        <z:libraryCatalog>Trove</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://nla.gov.au/nla.news-article135813611</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-07 14:15:09</dcterms:dateSubmitted>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_1053">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/1053/1865 - Encounter with Bushrangers..pdf"/>
+        <dc:title>Trove newspaper PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://trove.nla.gov.au/newspaper/rendition/nla.news-article135813611.3.pdf?followup=070c53bf9ac20c6d14f69a87ab31f597</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-07 14:15:10</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://nla.gov.au/nla.news-article245505682">
+        <z:itemType>newspaperArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Newspaper><dc:title>Herald</dc:title></bib:Newspaper>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Melbourne, Victoria</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <link:link rdf:resource="#item_1056"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Bushrangers</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Captain Thunderbolt</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Frederick Ward</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>BUSHRANGING.</dc:title>
+        <dcterms:abstract>In our last issue we gave the particulars of the robbery of the Warialda mail, near Manilla, by this newly-fledged gang of bushrangers, and we now furnish an account of their proceedings ...</dcterms:abstract>
+        <dc:date>8 May 1865</dc:date>
+        <z:libraryCatalog>Trove</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://nla.gov.au/nla.news-article245505682</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-07 14:15:11</dcterms:dateSubmitted>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_1056">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/1056/1865 - BUSHRANGING..pdf"/>
+        <dc:title>Trove newspaper PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://trove.nla.gov.au/newspaper/rendition/nla.news-article245505682.3.pdf?followup=19d77950ef50f59641c83e43a7f2bbdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-07 14:15:14</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://nla.gov.au/nla.news-article20307313">
+        <z:itemType>newspaperArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Newspaper><dc:title>Queenslander</dc:title></bib:Newspaper>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Brisbane, Queensland</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <link:link rdf:resource="#item_1059"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Black Trackers</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>bushrangers</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Captain Thunderbolt</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Frederick Ward</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Thunderbolt</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>DOINGS OF THE BUSHRANGERS.</dc:title>
+        <dcterms:abstract>Yesterday's Maitland Ensign says:—A gentleman who has just returned from the Namoi River informs us that the bushranger Ward, alias Thunderbolt breakfasted at the Tambar ...</dcterms:abstract>
+        <dc:date>28 Apr 1866</dc:date>
+        <z:libraryCatalog>Trove</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://nla.gov.au/nla.news-article20307313</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-07 14:15:13</dcterms:dateSubmitted>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_1059">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/1059/1866 - DOINGS OF THE BUSHRANGERS..pdf"/>
+        <dc:title>Trove newspaper PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://trove.nla.gov.au/newspaper/rendition/nla.news-article20307313.3.pdf?followup=654acdd6490ad7022e5b87dc955c7680</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-07 14:15:15</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://nla.gov.au/nla.news-article187931551">
+        <z:itemType>newspaperArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Newspaper>
+                <dc:title>Armidale Express and New England General Advertiser</dc:title>
+            </bib:Newspaper>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>New South Wales</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <link:link rdf:resource="#item_1062"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>bushrangers</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Thunderbolt</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>THUNDERBOLT AGAIN.</dc:title>
+        <dcterms:abstract>THE mail which left Armidale on Wednesday was stuck-up by Thunderbolt and his mate on Thursday, about three miles beyond Wallabadah. We hear that they took the bags into the bush, cut them open, ...</dcterms:abstract>
+        <dc:date>1 Jun 1867</dc:date>
+        <z:libraryCatalog>Trove</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://nla.gov.au/nla.news-article187931551</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-07 14:15:15</dcterms:dateSubmitted>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_1062">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/1062/1867 - THUNDERBOLT AGAIN..pdf"/>
+        <dc:title>Trove newspaper PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://trove.nla.gov.au/newspaper/rendition/nla.news-article187931551.3.pdf?followup=0b1e6ab26907df4fdfbb554150a2d724</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-07 14:15:16</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://nla.gov.au/nla.news-article1265580">
+        <z:itemType>newspaperArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Newspaper><dc:title>Brisbane Courier</dc:title></bib:Newspaper>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Queensland</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <link:link rdf:resource="#item_1065"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>bushrangers</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>escapes</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Frederick Ward</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Mary Ann Ward</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Thunderbolt</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>CAPTURE OF WARD, THE BUSHRANGER, AND PURSUIT OF THUNDERBOLT.</dc:title>
+        <dcterms:abstract>THE Maitland Mercury's Stroud correspondent writes, under date 31st ultimo:— On Friday last, sergeant Finlay, with sergeant Kerrigan and constable Sculloy, of ...</dcterms:abstract>
+        <dc:date>12 Apr 1866</dc:date>
+        <z:libraryCatalog>Trove</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://nla.gov.au/nla.news-article1265580</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-07 14:15:17</dcterms:dateSubmitted>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_1065">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/1065/1866 - CAPTURE OF WARD, THE BUSHRANGER, AND PURSUIT OF TH.pdf"/>
+        <dc:title>Trove newspaper PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://trove.nla.gov.au/newspaper/rendition/nla.news-article1265580.3.pdf?followup=bb77f4769a8be7699589e90daef5b0c6</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-07 14:15:25</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://nla.gov.au/nla.news-article225476014">
+        <z:itemType>newspaperArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Newspaper>
+               <dc:title>New South Wales Government Gazette</dc:title>
+            </bib:Newspaper>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Sydney, New South Wales</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <link:link rdf:resource="#item_1068"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Captain Thunderbolt</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Frederick Ward</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>TWO HUNDRED POUNDS REWARD</dc:title>
+        <dc:date>28 May 1867</dc:date>
+        <z:libraryCatalog>Trove</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://nla.gov.au/nla.news-article225476014</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-07 14:15:19</dcterms:dateSubmitted>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_1068">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/1068/1867 - TWO HUNDRED POUNDS REWARD.pdf"/>
+        <dc:title>Trove newspaper PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://trove.nla.gov.au/newspaper/rendition/nla.news-article225476014.3.pdf?followup=fcd8befe98559440aab7cf0105d77fae</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-07 14:15:25</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://nla.gov.au/nla.news-article225255090">
+        <z:itemType>newspaperArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Newspaper>
+               <dc:title>New South Wales Government Gazette</dc:title>
+            </bib:Newspaper>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Sydney, New South Wales</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <link:link rdf:resource="#item_1071"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Captain Thunderbolt</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Frederick Ward</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>ONE HUNDRED POUNDS REWARD.</dc:title>
+        <dc:date>27 Dec 1865</dc:date>
+        <z:libraryCatalog>Trove</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://nla.gov.au/nla.news-article225255090</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-07 14:15:21</dcterms:dateSubmitted>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_1071">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/1071/1865 - ONE HUNDRED POUNDS REWARD..pdf"/>
+        <dc:title>Trove newspaper PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://trove.nla.gov.au/newspaper/rendition/nla.news-article225255090.3.pdf?followup=67191f2cca25a79ea3c4dfff6de2cc2c</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-07 14:15:25</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://nla.gov.au/nla.news-article8832774">
+        <z:itemType>newspaperArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Newspaper><dc:title>Mercury</dc:title></bib:Newspaper>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Hobart, Tasmania</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <link:link rdf:resource="#item_1074"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>bushrangers</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Captain Thunderbolt</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Frederick Ward</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Thunderbolt</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>BUSHRANGING.</dc:title>
+        <dcterms:abstract>In our last issue we gave the particulars of the robbery of the Warialda mail near Manilla by this newly-fledged gang of bushrangers, and, we now furnish an account of their proceedings since ...</dcterms:abstract>
+        <dc:date>13 May 1865</dc:date>
+        <z:libraryCatalog>Trove</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://nla.gov.au/nla.news-article8832774</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-07 14:15:22</dcterms:dateSubmitted>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_1074">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/1074/1865 - BUSHRANGING..pdf"/>
+        <dc:title>Trove newspaper PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://trove.nla.gov.au/newspaper/rendition/nla.news-article8832774.3.pdf?followup=037983a86e7619b4ddeca10a3a639238</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-07 14:15:26</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://nla.gov.au/nla.news-article187932585">
+        <z:itemType>newspaperArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Newspaper>
+                <dc:title>Armidale Express and New England General Advertiser</dc:title>
+            </bib:Newspaper>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>New South Wales</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <link:link rdf:resource="#item_1077"/>
+        <dc:title>Epitome of News. A CHASE AFTER THUNDERBOLT.</dc:title>
+        <dcterms:abstract>WE are given to understand that Frederick Ward, alias. Thunderbolt, has again made his appearance in the neighbourhood of Manilla. It seems that on Tuesday last, ...</dcterms:abstract>
+        <dc:date>14 Dec 1867</dc:date>
+        <z:libraryCatalog>Trove</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://nla.gov.au/nla.news-article187932585</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-07 14:17:25</dcterms:dateSubmitted>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_1077">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/1077/1867 - Epitome of News. A CHASE AFTER THUNDERBOLT..pdf"/>
+        <dc:title>Trove newspaper PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://trove.nla.gov.au/newspaper/rendition/nla.news-article187932585.3.pdf?followup=80f3095843c04d68d7f7ea8a83994077</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-07 14:17:27</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://nla.gov.au/nla.news-article28591942">
+        <z:itemType>newspaperArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Newspaper>
+               <dc:title>South Australian Advertiser</dc:title>
+            </bib:Newspaper>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Adelaide, South Australia</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <link:link rdf:resource="#item_1080"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>bushrangers</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>deaths</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Frederick Ward</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>police shootings</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Thunderbolt</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>THE BUSHRANGER THUNDERBOLT SHOT DEAD.</dc:title>
+        <dcterms:abstract>Several persons were stuck up near Uralla. Constables Mulhall and Walker went immediately to the spot. They saw Thunderbolt, and called upon him ...</dcterms:abstract>
+        <dc:date>28 May 1870</dc:date>
+        <z:libraryCatalog>Trove</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://nla.gov.au/nla.news-article28591942</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-07 14:17:28</dcterms:dateSubmitted>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_1080">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/1080/1870 - THE BUSHRANGER THUNDERBOLT SHOT DEAD..pdf"/>
+        <dc:title>Trove newspaper PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://trove.nla.gov.au/newspaper/rendition/nla.news-article28591942.3.pdf?followup=86b5076523223b770619be0daf9eaffc</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-07 14:17:31</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://nla.gov.au/nla.news-article135803617">
+        <z:itemType>newspaperArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Newspaper><dc:title>Illawarra Mercury</dc:title></bib:Newspaper>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                        <vcard:locality>Wollongong, New South Wales</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <link:link rdf:resource="#item_1083"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>bushrangers</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Thunderbolt</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>William Monckton</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Committal of Thunderbolt's Mate. Another Bushranger.</dc:title>
+        <dcterms:abstract>The boy Moncton was finally brought up before the Glen Innes Bench, consisting of Messrs Frazer and Dumaresq. J.P.s on Friday last and committed for trial at the next circuit court in Armidale some ...</dcterms:abstract>
+        <dc:date>29 Jan 1869</dc:date>
+        <z:libraryCatalog>Trove</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://nla.gov.au/nla.news-article135803617</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-07 14:17:31</dcterms:dateSubmitted>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_1083">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/1083/1869 - Committal of Thunderbolt's Mate. Another Bushrange.pdf"/>
+        <dc:title>Trove newspaper PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://trove.nla.gov.au/newspaper/rendition/nla.news-article135803617.3.pdf?followup=2afe4795a1467823f403e2fe6841f309</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-07 14:17:35</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://nla.gov.au/nla.news-article94743859">
+        <z:itemType>newspaperArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Newspaper>
+               <dc:title>South Australian Weekly Chronicle</dc:title>
+            </bib:Newspaper>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Adelaide, South Australia</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <link:link rdf:resource="#item_1086"/>
+        <dc:title>CAPTAIN THUNDERBOLT HARD-UP.</dc:title>
+        <dcterms:abstract>Sir—I beg leave to complain to you of the sharpness (or rather dullness) of your Adelaide detectives. For instance, as we were returning to town after an exploit on the East Park Lands on Monday evening, when we ...</dcterms:abstract>
+        <dc:date>21 Apr 1866</dc:date>
+        <z:libraryCatalog>Trove</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://nla.gov.au/nla.news-article94743859</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-07 14:29:01</dcterms:dateSubmitted>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_1086">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/1086/1866 - CAPTAIN THUNDERBOLT HARD-UP..pdf"/>
+        <dc:title>Trove newspaper PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://trove.nla.gov.au/newspaper/rendition/nla.news-article94743859.3.pdf?followup=f0edeec0690706d290c8f55b8befe756</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-07 14:29:03</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://nla.gov.au/nla.news-article105998167">
+        <z:itemType>newspaperArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Newspaper>
+                <dc:title>Wagga Wagga Express and Murrumbidgee District Advertiser</dc:title>
+            </bib:Newspaper>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>New South Wales</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <link:link rdf:resource="#item_1089"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>bushrangers</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Thunderbolt</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Colonial Summary</dc:title>
+        <dcterms:abstract>INFORMATION reached this town, on Thursday last, that Thunderbolt was again on this side of the country, encamped on a mountain situated near the head of the waters of the Little ...</dcterms:abstract>
+        <dc:date>7 Apr 1866</dc:date>
+        <z:libraryCatalog>Trove</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://nla.gov.au/nla.news-article105998167</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-07 14:29:46</dcterms:dateSubmitted>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_1089">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/1089/1866 - Colonial Summary.pdf"/>
+        <dc:title>Trove newspaper PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://trove.nla.gov.au/newspaper/rendition/nla.news-article105998167.3.pdf?followup=1b9173ce79777d242b8a9ed2ab6d9e6e</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-07 14:29:50</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://nla.gov.au/nla.news-article18712031">
+        <z:itemType>newspaperArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Newspaper>
+                <dc:title>Maitland Mercury and Hunter River General Advertiser</dc:title>
+            </bib:Newspaper>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>New South Wales</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <link:link rdf:resource="#item_1092"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Black tracker</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>bushrangers</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>churches</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Mary Ann Bugg</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Thunderbolt</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Wesleyan Church</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>CAPT. THUNDERBOLT, ALIAS WARD, THE BUSHRANGER.</dc:title>
+        <dcterms:abstract>Information reached this town, on Thursday last, that Thunderbolt was again on this side of the country, encamped on a mountain situated near the head of the waters of the Little Manning quite crippled. The informer is a female, who states ...</dcterms:abstract>
+        <dc:date>29 Mar 1866</dc:date>
+        <z:libraryCatalog>Trove</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://nla.gov.au/nla.news-article18712031</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-07 14:30:34</dcterms:dateSubmitted>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_1092">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/1092/1866 - CAPT. THUNDERBOLT, ALIAS WARD, THE BUSHRANGER..pdf"/>
+        <dc:title>Trove newspaper PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://trove.nla.gov.au/newspaper/rendition/nla.news-article18712031.3.pdf?followup=a87a4527ffbbdefe2b3a693b8139c813</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-07 14:30:37</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+</rdf:RDF>
